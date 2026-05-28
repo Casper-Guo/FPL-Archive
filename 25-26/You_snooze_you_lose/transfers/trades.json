@@ -1,0 +1,168 @@
+[
+    {
+        "Gameweek": 2,
+        "Offered By": "Larry Long",
+        "Offered To": "Casper Guo",
+        "Offered": [
+            "Gabriel"
+        ],
+        "Requested": [
+            "Cucurella"
+        ],
+        "Date": "20 Aug"
+    },
+    {
+        "Gameweek": 3,
+        "Offered By": "Casper Guo",
+        "Offered To": "Dennis Ma",
+        "Offered": [
+            "Pickford",
+            "Ballard"
+        ],
+        "Requested": [
+            "Trafford",
+            "Lewis"
+        ],
+        "Date": "24 Aug"
+    },
+    {
+        "Gameweek": 3,
+        "Offered By": "Casper Guo",
+        "Offered To": "Larry Long",
+        "Offered": [
+            "Gabriel",
+            "M.Salah",
+            "Šeško"
+        ],
+        "Requested": [
+            "J.Timber",
+            "Elanga",
+            "Gyökeres"
+        ],
+        "Date": "27 Aug"
+    },
+    {
+        "Gameweek": 3,
+        "Offered By": "Casper Guo",
+        "Offered To": "Dennis Ma",
+        "Offered": [
+            "B.Fernandes"
+        ],
+        "Requested": [
+            "Gakpo"
+        ],
+        "Date": "27 Aug"
+    },
+    {
+        "Gameweek": 3,
+        "Offered By": "Allen Gong",
+        "Offered To": "Dennis Ma",
+        "Offered": [
+            "Gakpo"
+        ],
+        "Requested": [
+            "Saka"
+        ],
+        "Date": "28 Aug"
+    },
+    {
+        "Gameweek": 5,
+        "Offered By": "Allen Gong",
+        "Offered To": "Dennis Ma",
+        "Offered": [
+            "Saka"
+        ],
+        "Requested": [
+            "Madueke"
+        ],
+        "Date": "16 Sep"
+    },
+    {
+        "Gameweek": 5,
+        "Offered By": "Casper Guo",
+        "Offered To": "Larry Long",
+        "Offered": [
+            "Wood"
+        ],
+        "Requested": [
+            "Ekitiké"
+        ],
+        "Date": "18 Sep"
+    },
+    {
+        "Gameweek": 6,
+        "Offered By": "Allen Gong",
+        "Offered To": "Dennis Ma",
+        "Offered": [
+            "Xavi"
+        ],
+        "Requested": [
+            "Neto"
+        ],
+        "Date": "21 Sep"
+    },
+    {
+        "Gameweek": 6,
+        "Offered By": "Allen Gong",
+        "Offered To": "Casper Guo",
+        "Offered": [
+            "A.Becker"
+        ],
+        "Requested": [
+            "Pope"
+        ],
+        "Date": "24 Sep"
+    },
+    {
+        "Gameweek": 7,
+        "Offered By": "Larry Long",
+        "Offered To": "Casper Guo",
+        "Offered": [
+            "Gvardiol",
+            "Reijnders"
+        ],
+        "Requested": [
+            "Senesi",
+            "Ndoye"
+        ],
+        "Date": "27 Sep"
+    },
+    {
+        "Gameweek": 10,
+        "Offered By": "Allen Gong",
+        "Offered To": "Larry Long",
+        "Offered": [
+            "Raya",
+            "Bowen"
+        ],
+        "Requested": [
+            "Henderson",
+            "Woltemade"
+        ],
+        "Date": "29 Oct"
+    },
+    {
+        "Gameweek": 16,
+        "Offered By": "Larry Long",
+        "Offered To": "Casper Guo",
+        "Offered": [
+            "M.Salah"
+        ],
+        "Requested": [
+            "Mbeumo"
+        ],
+        "Date": "6 Dec"
+    },
+    {
+        "Gameweek": 31,
+        "Offered By": "Casper Guo",
+        "Offered To": "Larry Long",
+        "Offered": [
+            "Schade"
+        ],
+        "Requested": [
+            "Rogers"
+        ],
+        "Date": "18 Mar"
+    }
+]

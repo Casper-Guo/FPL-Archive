@@ -1,0 +1,605 @@
+Gameweek,Manager,In,Out,Accepted,Reason
+2,Dennis Ma,Kudus,Sarr,True,
+2,Casper Guo,Semenyo,Mitoma,True,
+2,Allen Gong,Reijnders,Gordon,True,
+2,Larry Long,Acheampong,Gvardiol,True,
+2,Dennis Ma,Richarlison,Welbeck,True,
+2,Casper Guo,Reijnders,Mitoma,False,player in not available
+2,Casper Guo,Reijnders,Elanga,False,player in not available
+2,Casper Guo,Lewis,Rúben,True,
+2,Allen Gong,Semenyo,Gordon,False,player in not available
+2,Allen Gong,Strand Larsen,Havertz,True,
+2,Larry Long,De Ligt,Frimpong,True,
+2,Dennis Ma,Semenyo,Ndiaye,False,player in not available
+2,Dennis Ma,Lewis,Konaté,False,player in not available
+2,Dennis Ma,Acheampong,Pedro Porro,False,player in not available
+2,Dennis Ma,Ballard,Pedro Porro,True,
+2,Casper Guo,J.Timber,Milenković,True,
+2,Allen Gong,Mayenda,Havertz,False,player out not available
+2,Allen Gong,Evanilson,Havertz,False,player out not available
+2,Allen Gong,Martinez,Sels,True,
+2,Larry Long,Richarlison,Solanke,False,player in not available
+2,Larry Long,Reijnders,Marmoush,False,player in not available
+2,Larry Long,Onana,Marmoush,True,
+2,Dennis Ma,Calafiori,N.Williams,True,
+2,Allen Gong,Mitchell,Lewis-Skelly,True,
+2,Dennis Ma,Rice,Ndiaye,True,
+2,Allen Gong,De Ligt,Lewis-Skelly,False,player in not available
+2,Allen Gong,Cash,Lewis-Skelly,False,player out not available
+2,Dennis Ma,Bruno G.,Ndiaye,False,player out not available
+2,Dennis Ma,Vicario,Ederson M.,True,
+3,Allen Gong,Pedro Porro,Schär,True,
+3,Dennis Ma,Burn,Kerkez,True,
+3,Larry Long,Ndoye,Ødegaard,True,
+3,Casper Guo,Pedro Porro,Ballard,False,player in not available
+3,Casper Guo,Yoro,Ballard,True,
+3,Allen Gong,Livramento,Mitchell,True,
+3,Dennis Ma,Mateta,Bowen,True,
+3,Larry Long,Johnson,Onana,True,
+3,Casper Guo,Gibbs-White,Semenyo,True,
+3,Allen Gong,Burn,Mitchell,False,player in not available
+3,Allen Gong,Trippier,Mitchell,False,player out not available
+3,Allen Gong,Mateta,Strand Larsen,False,player in not available
+3,Allen Gong,Ndoye,Rogers,False,player in not available
+3,Allen Gong,Gibbs-White,Rogers,False,player in not available
+3,Allen Gong,Hudson-Odoi,Rogers,True,
+3,Larry Long,J.Palhinha,Onana,False,player out not available
+3,Larry Long,Grealish,Onana,False,player out not available
+3,Larry Long,Bruno G.,Onana,False,player out not available
+3,Larry Long,Osula,Solanke,True,
+3,Casper Guo,O.Dango,Semenyo,False,player out not available
+3,Casper Guo,Van den Berg,Ballard,False,player out not available
+3,Casper Guo,Burn,Ballard,False,player in not available
+3,Allen Gong,Johnson,Rogers,False,player in not available
+3,Allen Gong,Grealish,Rogers,False,player out not available
+3,Larry Long,Livramento,Acheampong,False,player in not available
+3,Larry Long,Delap,Solanke,False,player out not available
+4,Allen Gong,Woltemade,Thiago,True,
+4,Dennis Ma,Xavi,Mac Allister,True,
+4,Larry Long,Grealish,Johnson,True,
+4,Casper Guo,Wissa,Šeško,True,
+4,Allen Gong,Chalobah,James,True,
+4,Dennis Ma,Donnarumma,Trafford,True,
+4,Larry Long,Wissa,Osula,False,player in not available
+4,Larry Long,Kolo Muani,Osula,True,
+4,Casper Guo,Woltemade,Šeško,False,player in not available
+4,Casper Guo,Xavi,Gibbs-White,False,player in not available
+4,Casper Guo,Semenyo,Gibbs-White,True,
+4,Allen Gong,Tosin,James,False,player out not available
+4,Allen Gong,Gusto,James,False,player out not available
+4,Allen Gong,Donnarumma,Martinez,False,player in not available
+4,Allen Gong,Mosquera,Aït-Nouri,True,
+4,Dennis Ma,Lacroix,Lewis,True,
+4,Larry Long,Chalobah,De Ligt,False,player in not available
+4,Casper Guo,Grealish,Gibbs-White,False,player in not available
+4,Casper Guo,Evanilson,Šeško,False,player out not available
+4,Casper Guo,Senesi,Walker,True,
+4,Allen Gong,Hincapie,Aït-Nouri,False,player out not available
+4,Allen Gong,Madueke,Hudson-Odoi,True,
+4,Dennis Ma,Chalobah,Lewis,False,player in not available
+4,Casper Guo,Schär,Walker,False,player out not available
+4,Casper Guo,Tarkowski,Walker,False,player out not available
+4,Casper Guo,Andersen,Walker,False,player out not available
+4,Allen Gong,Grealish,Reijnders,False,player in not available
+4,Allen Gong,Semenyo,Reijnders,False,player in not available
+4,Allen Gong,Ndiaye,Reijnders,True,
+4,Allen Gong,Sarr,Reijnders,False,player out not available
+4,Allen Gong,Ødegaard,Hudson-Odoi,False,player out not available
+4,Allen Gong,Zubimendi,Hudson-Odoi,False,player out not available
+5,Dennis Ma,Foden,Madueke,True,
+5,Allen Gong,Konaté,Mosquera,True,
+5,Larry Long,Bruno G.,Elanga,True,
+5,Casper Guo,Beto,Wissa,True,
+5,Allen Gong,Henderson,Martinez,True,
+5,Larry Long,Trippier,De Ligt,True,
+5,Larry Long,Konaté,Acheampong,False,player in not available
+6,Larry Long,Bowen,Kolo Muani,True,
+6,Allen Gong,Rúben,Konaté,True,
+6,Casper Guo,Reijnders,Semenyo,True,
+6,Larry Long,Senesi,Acheampong,True,
+6,Allen Gong,O'Reilly,Konaté,False,player out not available
+6,Allen Gong,Gravenberch,Gakpo,True,
+6,Casper Guo,Senesi,Muñoz,False,player in not available
+6,Larry Long,Cash,Acheampong,False,player out not available
+6,Larry Long,Reijnders,Bruno G.,False,player in not available
+6,Larry Long,Anthony,Bruno G.,True,
+6,Larry Long,Roefs,Sánchez,True,
+7,Allen Gong,Botman,Livramento,True,
+7,Larry Long,Semenyo,Mbeumo,True,
+7,Casper Guo,Semenyo,Ndoye,False,player in not available
+7,Casper Guo,Schär,Cucurella,True,
+7,Larry Long,Ødegaard,Mbeumo,False,player out not available
+7,Larry Long,Minteh,Mbeumo,False,player out not available
+7,Larry Long,Ødegaard,Grealish,True,
+7,Casper Guo,Doku,Ndoye,True,
+7,Larry Long,Minteh,Grealish,False,player out not available
+7,Larry Long,J.Palhinha,Grealish,False,player out not available
+7,Larry Long,Alderete,Trippier,True,
+7,Casper Guo,Gordon,Ndoye,False,player out not available
+7,Casper Guo,Sarr,Ndoye,False,player out not available
+7,Casper Guo,Richards,Muñoz,True,
+7,Larry Long,Mitchell,Trippier,False,player out not available
+7,Casper Guo,Welbeck,Beto,True,
+7,Casper Guo,Evanilson,Beto,False,player out not available
+7,Casper Guo,Thiago,Beto,False,player out not available
+8,Dennis Ma,Cucurella,Stones,True,
+8,Larry Long,Cucurella,Alderete,False,player in not available
+8,Larry Long,Cullen,Anthony,True,
+8,Casper Guo,Gakpo,Cunha,True,
+8,Allen Gong,Sarr,Gravenberch,True,
+8,Dennis Ma,Šeško,Richarlison,True,
+8,Larry Long,Gakpo,Ødegaard,False,player in not available
+8,Larry Long,Bruno G.,Ødegaard,True,
+8,Casper Guo,Sarr,Cunha,False,player in not available
+8,Casper Guo,Thiago,Welbeck,True,
+8,Allen Gong,Gakpo,Gravenberch,False,player in not available
+8,Allen Gong,Ndiaye,Gravenberch,False,player out not available
+8,Casper Guo,Mukiele,Schär,True,
+8,Casper Guo,Thiaw,Schär,False,player out not available
+8,Casper Guo,Cucurella,Schär,False,player in not available
+9,Larry Long,Mbeumo,Bruno G.,True,
+9,Allen Gong,Rogers,Xavi,True,
+9,Casper Guo,Ndiaye,Gordon,True,
+9,Larry Long,James,Alderete,True,
+9,Casper Guo,Grealish,Gordon,False,player out not available
+9,Casper Guo,Muñoz,Richards,True,
+9,Larry Long,Muñoz,Gvardiol,False,player in not available
+9,Larry Long,Tarkowski,Gvardiol,True,
+9,Casper Guo,Tarkowski,Mukiele,False,player in not available
+9,Casper Guo,Thiaw,Mukiele,True,
+9,Casper Guo,Rodon,Mukiele,False,player out not available
+9,Casper Guo,Thiaw,Richards,False,player in not available
+9,Casper Guo,Kroupi.Jr,Thiago,True,
+10,Allen Gong,Thiago,Bowen,True,
+10,Larry Long,Zubimendi,Reijnders,True,
+10,Casper Guo,Welbeck,Kroupi.Jr,True,
+10,Allen Gong,Mosquera,Botman,True,
+10,Larry Long,Xhaka,Reijnders,False,player out not available
+10,Larry Long,Szoboszlai,Cullen,True,
+10,Casper Guo,Beto,Calvert-Lewin,True,
+10,Allen Gong,A.Becker,Mamardashvili,True,
+10,Larry Long,Garnacho,Cullen,False,player out not available
+11,Allen Gong,Xhaka,Rogers,True,
+11,Larry Long,Gibbs-White,Zubimendi,True,
+11,Casper Guo,Merino,Trossard,True,
+11,Allen Gong,Mitchell,Mosquera,True,
+11,Casper Guo,Bowen,Isidor,True,
+11,Allen Gong,Merino,Sarr,False,player in not available
+11,Casper Guo,Igor Jesus,Isidor,False,player out not available
+11,Casper Guo,Beto,Isidor,False,player out not available
+11,Casper Guo,Keane,Andersen,True,
+11,Casper Guo,Petrović,Pickford,True,
+12,Allen Gong,Doku,Mac Allister,True,
+12,Dennis Ma,Richarlison,Šeško,True,
+12,Larry Long,Richards,Tarkowski,True,
+12,Casper Guo,Hincapie,Keane,True,
+12,Larry Long,Mukiele,Tarkowski,False,player out not available
+12,Larry Long,Estêvão,Gibbs-White,True,
+12,Casper Guo,Sarr,Gakpo,True,
+12,Larry Long,Matheus N.,Romero,True,
+12,Casper Guo,Mosquera,Keane,False,player out not available
+12,Casper Guo,Garnacho,Gakpo,False,player out not available
+12,Casper Guo,Garnacho,Merino,True,
+12,Larry Long,Truffert,Romero,False,player out not available
+12,Larry Long,Zubimendi,Enzo,True,
+12,Casper Guo,Evanilson,Bowen,True,
+13,Dennis Ma,Bruno G.,Foden,True,
+13,Allen Gong,Gibbs-White,Doku,True,
+13,Larry Long,Rogers,Estêvão,True,
+13,Casper Guo,O'Reilly,Virgil,True,
+13,Dennis Ma,Minteh,Wirtz,True,
+13,Allen Gong,Bruno G.,Xhaka,False,player in not available
+13,Allen Gong,Barnes,Xhaka,True,
+13,Larry Long,Gakpo,Estêvão,False,player out not available
+13,Larry Long,Anderson,Estêvão,False,player out not available
+13,Larry Long,Cash,James,True,
+13,Casper Guo,Schade,Garnacho,True,
+13,Dennis Ma,Ndiaye,Wirtz,False,player out not available
+13,Dennis Ma,J.Palhinha,Wirtz,False,player out not available
+13,Dennis Ma,Keane,Burn,True,
+13,Allen Gong,Livramento,Pedro Porro,True,
+13,Larry Long,Van den Berg,James,False,player out not available
+13,Larry Long,Anderson,Zubimendi,True,
+13,Casper Guo,Rogers,Garnacho,False,player in not available
+13,Casper Guo,Gvardiol,Virgil,False,player out not available
+13,Casper Guo,Kelleher,Sánchez,True,
+13,Dennis Ma,Pickford,Vicario,True,
+13,Allen Gong,Cash,Pedro Porro,False,player in not available
+13,Larry Long,Gibbs-White,Zubimendi,False,player in not available
+13,Larry Long,J.Palhinha,Zubimendi,False,player out not available
+13,Larry Long,Bruno G.,Zubimendi,False,player in not available
+13,Larry Long,Merino,Zubimendi,False,player out not available
+13,Larry Long,Gvardiol,Matheus N.,True,
+13,Casper Guo,Martinez,Sánchez,False,player out not available
+14,Allen Gong,Enzo,Barnes,True,
+14,Larry Long,Virgil,Cash,True,
+14,Casper Guo,Gakpo,Sarr,True,
+14,Allen Gong,Thiaw,Livramento,True,
+14,Larry Long,De Ligt,Cash,False,player out not available
+14,Larry Long,De Ligt,Richards,True,
+14,Casper Guo,J.Palhinha,Sarr,False,player out not available
+14,Casper Guo,Xhaka,Sarr,False,player out not available
+14,Casper Guo,Virgil,Senesi,False,player in not available
+14,Casper Guo,Milenković,Senesi,True,
+14,Allen Gong,James,Livramento,False,player out not available
+14,Larry Long,Truffert,Richards,False,player out not available
+14,Larry Long,Gakpo,Szoboszlai,False,player in not available
+14,Larry Long,Foden,Rogers,True,
+14,Casper Guo,Sánchez,Martinez,True,
+14,Larry Long,Enzo,Rogers,False,player in not available
+14,Casper Guo,Ramsdale,Pope,True,
+14,Casper Guo,Nketiah,Kroupi.Jr,True,
+14,Casper Guo,Evanilson,Kroupi.Jr,False,player out not available
+15,Dennis Ma,Wirtz,Minteh,True,
+15,Larry Long,Burn,De Ligt,True,
+15,Casper Guo,Doku,Gakpo,True,
+15,Dennis Ma,Burn,Keane,False,player in not available
+15,Dennis Ma,Van Hecke,Van de Ven,True,
+15,Larry Long,Van Hecke,De Ligt,False,player in not available
+15,Larry Long,Tarkowski,De Ligt,False,player out not available
+15,Larry Long,Grealish,Szoboszlai,True,
+15,Casper Guo,Ndiaye,Gakpo,False,player out not available
+15,Casper Guo,Tarkowski,Konaté,True,
+15,Larry Long,Wieffer,Szoboszlai,False,player out not available
+15,Larry Long,Verbruggen,Henderson,True,
+15,Casper Guo,Zirkzee,Nketiah,True,
+15,Casper Guo,Kroupi.Jr,Nketiah,False,player out not available
+15,Casper Guo,Verbruggen,Sánchez,False,player in not available
+16,Allen Gong,White,Thiaw,True,
+16,Larry Long,Cash,Burn,True,
+16,Casper Guo,White,Tarkowski,False,player in not available
+16,Casper Guo,Lewis-Skelly,Tarkowski,True,
+16,Larry Long,Andersen,Burn,False,player out not available
+16,Larry Long,Senesi,Burn,False,player out not available
+16,Larry Long,Sánchez,Verbruggen,True,
+16,Casper Guo,Lewis-Skelly,O'Reilly,False,player in not available
+16,Casper Guo,Andersen,Tarkowski,False,player out not available
+16,Casper Guo,Andersen,O'Reilly,True,
+16,Larry Long,Wilson,Grealish,True,
+16,Casper Guo,Sánchez,Martinez,False,player in not available
+16,Casper Guo,Wilson,Schade,False,player in not available
+16,Casper Guo,Rogers,Schade,True,
+16,Larry Long,Rogers,Grealish,False,player in not available
+16,Larry Long,Iwobi,Grealish,False,player out not available
+16,Larry Long,Szoboszlai,M.Salah,True,
+16,Casper Guo,Calvert-Lewin,Zirkzee,True,
+16,Casper Guo,Raúl,Zirkzee,False,player out not available
+17,Allen Gong,Senesi,White,True,
+17,Casper Guo,Cherki,Doku,True,
+17,Larry Long,Senesi,Cash,False,player in not available
+17,Larry Long,O'Reilly,Cash,True,
+17,Allen Gong,Cherki,Gibbs-White,False,player in not available
+17,Allen Gong,Gravenberch,Gibbs-White,True,
+17,Casper Guo,Minteh,Doku,False,player out not available
+17,Casper Guo,Minteh,Madueke,True,
+17,Larry Long,Matheus N.,Cash,False,player out not available
+17,Larry Long,Bowen,Gyökeres,True,
+17,Allen Gong,Gravenberch,Eze,False,player in not available
+17,Allen Gong,Tavernier,Enzo,True,
+17,Casper Guo,Verbruggen,Martinez,True,
+17,Larry Long,Verbruggen,Sánchez,False,player in not available
+17,Larry Long,Tavernier,Anderson,False,player in not available
+17,Allen Gong,Kamara,Gibbs-White,False,player out not available
+17,Allen Gong,Kamara,Enzo,False,player out not available
+17,Allen Gong,Kamara,Eze,True,
+17,Casper Guo,Senesi,Lewis-Skelly,False,player in not available
+17,Casper Guo,O'Reilly,Lewis-Skelly,False,player in not available
+17,Casper Guo,Henderson,Martinez,False,player out not available
+17,Casper Guo,Henderson,Ramsdale,True,
+17,Casper Guo,Matheus N.,Lewis-Skelly,True,
+17,Casper Guo,Tavernier,Doku,False,player in not available
+17,Casper Guo,Tavernier,Madueke,False,player in not available
+17,Casper Guo,Petrović,Ramsdale,False,player out not available
+18,Allen Gong,Gyökeres,Isak,True,
+18,Casper Guo,Cunha,Schade,True,
+18,Larry Long,Tarkowski,O'Reilly,True,
+18,Allen Gong,Stach,Kamara,True,
+18,Casper Guo,Frimpong,Andersen,True,
+18,Larry Long,James,O'Reilly,False,player out not available
+18,Larry Long,Grealish,Szoboszlai,True,
+18,Allen Gong,Tarkowski,Mitchell,False,player in not available
+18,Allen Gong,McGinn,Kamara,False,player out not available
+18,Allen Gong,McGinn,Tavernier,True,
+18,Casper Guo,Tarkowski,Andersen,False,player in not available
+18,Casper Guo,Konaté,Andersen,False,player out not available
+18,Casper Guo,Henderson,Petrović,True,
+18,Larry Long,Cunha,Szoboszlai,False,player in not available
+18,Larry Long,Pope,Sánchez,True,
+18,Casper Guo,Ramsdale,Petrović,False,player out not available
+19,Casper Guo,Sánchez,Henderson,True,
+19,Larry Long,Thiaw,Guéhi,True,
+19,Casper Guo,Dorgu,Hincapie,True,
+19,Larry Long,Minteh,Grealish,True,
+19,Casper Guo,O'Reilly,Matheus N.,True,
+19,Larry Long,Casemiro,Grealish,False,player out not available
+19,Larry Long,Schade,Grealish,False,player out not available
+20,Allen Gong,Guéhi,Mitchell,True,
+20,Casper Guo,Cash,O'Reilly,True,
+20,Larry Long,Garner,Wilson,True,
+20,Allen Gong,Garner,Caicedo,False,player in not available
+20,Allen Gong,Gordon,Caicedo,True,
+20,Larry Long,Pedro Porro,Virgil,True,
+20,Allen Gong,Mukiele,Senesi,True,
+20,Larry Long,Van de Ven,Virgil,False,player out not available
+20,Larry Long,Martinez,Pope,True,
+20,Allen Gong,Xhaka,McGinn,True,
+20,Allen Gong,Gordon,McGinn,False,player in not available
+21,Casper Guo,Matheus N.,Frimpong,True,
+21,Larry Long,Enzo,Minteh,True,
+21,Casper Guo,O'Reilly,Frimpong,False,player out not available
+21,Casper Guo,Pope,Verbruggen,True,
+21,Larry Long,Wilson,Minteh,False,player out not available
+21,Larry Long,Bentancur,Minteh,False,player out not available
+21,Larry Long,Matheus N.,Gvardiol,False,player in not available
+21,Larry Long,James,Gvardiol,True,
+21,Casper Guo,Collins,Dorgu,True,
+21,Casper Guo,Lammens,Verbruggen,False,player out not available
+21,Casper Guo,Mykolenko,Romero,True,
+21,Casper Guo,O'Brien,Romero,False,player out not available
+22,Allen Gong,Wilson,Reijnders,True,
+22,Larry Long,Wilson,Enzo,False,player in not available
+22,Larry Long,Alderete,Thiaw,True,
+22,Casper Guo,Wilson,Cunha,False,player in not available
+22,Casper Guo,M.Salah,Cunha,True,
+22,Allen Gong,Guéhi,Rúben,True,
+22,Larry Long,Ballard,Thiaw,False,player out not available
+22,Larry Long,Virgil,Thiaw,False,player out not available
+22,Larry Long,Konaté,Thiaw,False,player out not available
+22,Larry Long,Virgil,O'Reilly,True,
+22,Casper Guo,Frimpong,Mykolenko,True,
+22,Allen Gong,Lewis-Potter,Rúben,False,player out not available
+22,Allen Gong,Senesi,Rúben,False,player out not available
+22,Allen Gong,Šeško,Gyökeres,True,
+22,Larry Long,Konaté,O'Reilly,False,player out not available
+22,Casper Guo,Trossard,Cunha,False,player out not available
+22,Casper Guo,Tavernier,Cunha,False,player out not available
+22,Casper Guo,Ballard,Collins,True,
+22,Allen Gong,Schade,Stach,True,
+22,Casper Guo,Romero,Collins,False,player out not available
+22,Casper Guo,Van de Ven,Collins,False,player out not available
+22,Casper Guo,Konaté,Mykolenko,False,player out not available
+22,Casper Guo,Virgil,Mykolenko,False,player in not available
+22,Allen Gong,Aaronson,Stach,False,player out not available
+23,Larry Long,James,Virgil,True,
+23,Casper Guo,Kroupi.Jr,Welbeck,True,
+23,Larry Long,Dorgu,Virgil,False,player out not available
+23,Larry Long,Dorgu,Alderete,True,
+23,Casper Guo,Collins,Frimpong,True,
+23,Larry Long,Collins,Alderete,False,player in not available
+23,Larry Long,Henderson,Martinez,True,
+23,Casper Guo,Khusanov,Frimpong,False,player out not available
+23,Casper Guo,Kelleher,Pope,True,
+24,Allen Gong,Estêvão,Schade,True,
+24,Larry Long,Evanilson,Woltemade,True,
+24,Casper Guo,Ballard,Collins,True,
+24,Allen Gong,Havertz,Šeško,True,
+24,Larry Long,Van Hecke,Pedro Porro,True,
+24,Casper Guo,Alderete,Collins,False,player out not available
+24,Larry Long,Virgil,Pedro Porro,False,player out not available
+24,Larry Long,Cunha,Foden,True,
+24,Larry Long,Gibbs-White,Foden,False,player out not available
+24,Larry Long,Ayari,Foden,False,player out not available
+24,Larry Long,Ayari,Garner,True,
+24,Larry Long,Szoboszlai,Garner,False,player out not available
+24,Larry Long,Caicedo,Garner,False,player out not available
+24,Larry Long,Dalot,Dorgu,True,
+24,Larry Long,O'Reilly,Dorgu,False,player out not available
+25,Allen Gong,Summerville,Estêvão,True,
+25,Larry Long,Gordon,Ayari,True,
+25,Casper Guo,Madueke,Cherki,True,
+25,Larry Long,Thiaw,Dalot,True,
+25,Casper Guo,Andersen,Ballard,True,
+25,Larry Long,Burn,Dalot,False,player out not available
+25,Larry Long,Leno,Henderson,True,
+25,Casper Guo,Struijk,Ballard,False,player out not available
+25,Casper Guo,Thiaw,Ballard,False,player in not available
+25,Larry Long,Andersen,Tarkowski,False,player in not available
+26,Allen Gong,Zubimendi,Gibbs-White,True,
+26,Larry Long,Sarr,Gordon,True,
+26,Casper Guo,Matheus N.,Struijk,True,
+26,Larry Long,Richards,Thiaw,True,
+26,Casper Guo,Rúben,Struijk,False,player out not available
+26,Casper Guo,Morato,Andersen,True,
+26,Larry Long,Mitchell,Thiaw,False,player out not available
+26,Larry Long,Matheus N.,Van Hecke,False,player in not available
+26,Larry Long,Rúben,Van Hecke,True,
+26,Casper Guo,Milenković,Andersen,False,player out not available
+26,Larry Long,Henderson,Leno,True,
+27,Larry Long,Virgil,Richards,True,
+27,Casper Guo,Rayan,Madueke,True,
+27,Larry Long,Evanilson,Gyökeres,True,
+27,Casper Guo,Strand Larsen,Kroupi.Jr,True,
+27,Larry Long,Szoboszlai,Sarr,True,
+27,Casper Guo,O.Dango,Madueke,False,player out not available
+27,Casper Guo,Virgil,Milenković,False,player in not available
+27,Casper Guo,Hill,Milenković,True,
+27,Larry Long,Martinez,Henderson,True,
+27,Casper Guo,Konaté,Milenković,False,player out not available
+27,Casper Guo,Hincapie,Calafiori,True,
+27,Casper Guo,Adli,Madueke,False,player out not available
+27,Casper Guo,Schade,Madueke,False,player out not available
+28,Dennis Ma,Foden,Trossard,True,
+28,Allen Gong,Šeško,Havertz,True,
+28,Casper Guo,O'Reilly,Matheus N.,True,
+28,Dennis Ma,Konaté,White,True,
+28,Allen Gong,Scott,Zubimendi,True,
+28,Casper Guo,Konaté,Muñoz,False,player in not available
+28,Dennis Ma,O'Reilly,Lacroix,False,player in not available
+28,Dennis Ma,Calafiori,White,False,player out not available
+28,Allen Gong,Konaté,Mukiele,False,player in not available
+29,Larry Long,Keane,Truffert,True,
+29,Casper Guo,Matheus N.,O'Reilly,True,
+29,Larry Long,Matheus N.,Truffert,False,player in not available
+29,Larry Long,Marmoush,Iwobi,True,
+29,Casper Guo,Aït-Nouri,O'Reilly,False,player out not available
+29,Casper Guo,Dewsbury-Hall,Rayan,True,
+29,Larry Long,Garner,Iwobi,False,player out not available
+29,Larry Long,Stach,Iwobi,False,player out not available
+29,Larry Long,Darlow,Martinez,True,
+29,Casper Guo,Darlow,Vicario,False,player in not available
+30,Dennis Ma,Gibbs-White,Mac Allister,True,
+30,Allen Gong,Cherki,Gravenberch,True,
+30,Larry Long,Gibbs-White,Marmoush,False,player in not available
+30,Larry Long,Schade,Marmoush,True,
+30,Casper Guo,Gibbs-White,Dewsbury-Hall,False,player in not available
+30,Casper Guo,Schade,Dewsbury-Hall,False,player in not available
+30,Casper Guo,O'Reilly,Matheus N.,True,
+30,Dennis Ma,Frimpong,Van de Ven,True,
+30,Allen Gong,Truffert,Konsa,True,
+30,Larry Long,Muñoz,Keane,True,
+30,Casper Guo,Frimpong,Kerkez,False,player in not available
+30,Casper Guo,Tavernier,Dewsbury-Hall,True,
+30,Larry Long,Collins,Keane,False,player out not available
+30,Larry Long,Collins,Virgil,True,
+30,Casper Guo,Rayan,Dewsbury-Hall,False,player out not available
+30,Larry Long,Muñoz,Virgil,False,player in not available
+30,Larry Long,Henderson,Darlow,True,
+30,Larry Long,Martinez,Roefs,True,
+30,Larry Long,Mosquera,Keane,False,player out not available
+31,Allen Gong,Virgil,Mitchell,True,
+31,Larry Long,Richarlison,Evanilson,True,
+31,Casper Guo,Virgil,Kerkez,False,player in not available
+31,Casper Guo,Thiaw,O'Reilly,True,
+31,Allen Gong,Tarkowski,Mitchell,False,player out not available
+31,Allen Gong,Szoboszlai,Cherki,True,
+31,Larry Long,Andersen,Mosquera,True,
+31,Casper Guo,Andersen,O'Reilly,False,player in not available
+31,Casper Guo,Andersen,Hill,False,player in not available
+31,Casper Guo,Richarlison,Watkins,False,player in not available
+31,Casper Guo,Szoboszlai,M.Salah,False,player in not available
+31,Casper Guo,Gordon,M.Salah,True,
+31,Larry Long,Tete,Mosquera,False,player out not available
+31,Larry Long,Szoboszlai,Sarr,False,player in not available
+31,Larry Long,Cunha,Sarr,True,
+31,Casper Guo,Szoboszlai,Schade,False,player in not available
+31,Casper Guo,Gordon,Schade,False,player in not available
+31,Casper Guo,Iwobi,M.Salah,False,player out not available
+31,Casper Guo,Garner,M.Salah,False,player out not available
+31,Casper Guo,Burn,O'Reilly,False,player out not available
+31,Larry Long,Gordon,Sarr,False,player in not available
+31,Larry Long,Thiaw,Collins,False,player in not available
+31,Larry Long,Hall,Collins,True,
+31,Larry Long,Iwobi,Enzo,True,
+31,Larry Long,Xavi,Enzo,False,player out not available
+31,Larry Long,Szoboszlai,Enzo,False,player in not available
+32,Allen Gong,Guéhi,Tete,True,
+32,Casper Guo,Welbeck,Gyökeres,True,
+32,Allen Gong,Mitchell,Livramento,True,
+32,Casper Guo,Van Hecke,Hincapie,True,
+32,Allen Gong,Richards,Livramento,False,player out not available
+32,Allen Gong,Lacroix,Livramento,False,player out not available
+32,Allen Gong,Welbeck,Šeško,False,player in not available
+32,Allen Gong,Verbruggen,A.Becker,True,
+32,Casper Guo,O'Reilly,Struijk,True,
+32,Casper Guo,Mavropanos,Hill,True,
+32,Casper Guo,Verbruggen,Leno,False,player in not available
+32,Casper Guo,Guéhi,Struijk,False,player in not available
+32,Casper Guo,Diouf,Hill,False,player out not available
+32,Casper Guo,F.Kadıoğlu,Hincapie,False,player out not available
+32,Casper Guo,Mamardashvili,Leno,True,
+32,Casper Guo,Hermansen,Leno,False,player out not available
+32,Casper Guo,Alderete,Struijk,False,player out not available
+33,Casper Guo,Cherki,Gordon,True,
+33,Casper Guo,Doku,Gordon,False,player out not available
+33,Casper Guo,Hinshelwood,Gordon,False,player out not available
+33,Casper Guo,Sels,Kelleher,True,
+33,Casper Guo,Hill,Mavropanos,True,
+33,Casper Guo,Bijol,Thiaw,True,
+33,Casper Guo,Khusanov,Mavropanos,False,player out not available
+33,Casper Guo,Struijk,Thiaw,False,player out not available
+33,Casper Guo,Muñoz,Mavropanos,False,player out not available
+34,Allen Gong,Virgil,N.Williams,True,
+34,Casper Guo,Virgil,Hill,False,player in not available
+34,Casper Guo,Hincapie,Hill,True,
+34,Allen Gong,M.Salah,Szoboszlai,True,
+34,Casper Guo,Hincapie,Van Hecke,False,player in not available
+34,Casper Guo,M.Salah,Tavernier,False,player in not available
+34,Casper Guo,Šeško,Calvert-Lewin,True,
+34,Allen Gong,Šeško,Beto,False,player in not available
+34,Allen Gong,Mavropanos,Tarkowski,True,
+34,Casper Guo,Bruno G.,Tavernier,True,
+34,Allen Gong,Disasi,Tarkowski,False,player out not available
+34,Allen Gong,Dewsbury-Hall,Scott,True,
+34,Casper Guo,Bruno G.,Garner,False,player in not available
+34,Casper Guo,Woodman,Mamardashvili,True,
+34,Allen Gong,Eze,Rodrigo,True,
+34,Casper Guo,Dewsbury-Hall,Garner,False,player in not available
+34,Casper Guo,Ballard,Bijol,True,
+34,Casper Guo,Mavropanos,Van Hecke,False,player in not available
+34,Casper Guo,Kelleher,Mamardashvili,False,player out not available
+34,Casper Guo,Alderete,Bijol,False,player out not available
+34,Casper Guo,Van de Ven,Van Hecke,True,
+35,Allen Gong,Anderson,Wilson,True,
+35,Casper Guo,Calvert-Lewin,Šeško,True,
+35,Allen Gong,Igor Jesus,Beto,True,
+35,Casper Guo,Anderson,Xavi,False,player in not available
+35,Casper Guo,Struijk,Van de Ven,True,
+35,Allen Gong,Kroupi.Jr,Beto,False,player out not available
+35,Allen Gong,Groß,M.Salah,True,
+35,Casper Guo,Hill,Van de Ven,False,player out not available
+35,Casper Guo,Bruno G.,Summerville,True,
+35,Allen Gong,Justin,Mitchell,True,
+35,Casper Guo,Petrović,Hermansen,True,
+35,Casper Guo,Darlow,Hermansen,False,player out not available
+35,Casper Guo,Stach,Summerville,False,player out not available
+35,Casper Guo,Garner,Xavi,True,
+35,Casper Guo,Scott,Xavi,False,player out not available
+35,Casper Guo,Bijol,Van de Ven,False,player out not available
+35,Casper Guo,A.Becker,Woodman,True,
+35,Casper Guo,Tavernier,Summerville,False,player out not available
+35,Casper Guo,Kelleher,Hermansen,False,player out not available
+35,Casper Guo,Henderson,Woodman,False,player out not available
+36,Allen Gong,Doku,Anderson,True,
+36,Casper Guo,Saka,Palmer,True,
+36,Allen Gong,Truffert,Mavropanos,True,
+36,Casper Guo,Hinshelwood,Palmer,False,player out not available
+36,Casper Guo,Khusanov,Hill,True,
+36,Allen Gong,Osula,Igor Jesus,True,
+36,Casper Guo,Calafiori,Hincapie,True,
+36,Casper Guo,Van Hecke,Hill,False,player out not available
+36,Casper Guo,Van Hecke,Ballard,True,
+36,Casper Guo,White,Hincapie,False,player out not available
+36,Casper Guo,Lewis-Skelly,Hincapie,False,player out not available
+36,Casper Guo,Stach,Palmer,False,player out not available
+36,Casper Guo,Canvot,Hill,False,player out not available
+36,Casper Guo,Canvot,Ballard,False,player out not available
+36,Casper Guo,Kelleher,Darlow,True,
+37,Allen Gong,Rayan,Okafor,True,
+37,Casper Guo,Tarkowski,Van Hecke,True,
+37,Casper Guo,Lewis-Skelly,Calafiori,True,
+37,Casper Guo,Mosquera,Calafiori,False,player out not available
+37,Casper Guo,Hincapie,Calafiori,False,player out not available
+37,Casper Guo,Keane,Van Hecke,False,player out not available
+37,Casper Guo,Mamardashvili,Henderson,True,
+38,Dennis Ma,J.Palhinha,Casemiro,True,
+38,Allen Gong,Kroupi.Jr,Osula,True,
+38,Casper Guo,Kroupi.Jr,Calvert-Lewin,False,player in not available
+38,Casper Guo,M.Salah,Saka,True,
+38,Dennis Ma,Gravenberch,Wirtz,True,
+38,Allen Gong,Szoboszlai,Eze,True,
+38,Casper Guo,Flemming,Calvert-Lewin,True,
+38,Dennis Ma,Bernardo,Rice,True,
+38,Allen Gong,Gravenberch,Eze,False,player in not available
+38,Allen Gong,Maguire,F.Kadıoğlu,True,
+38,Casper Guo,Mosquera,Lewis-Skelly,True,
+38,Dennis Ma,Röhl,Rice,False,player out not available
+38,Dennis Ma,Mavropanos,Cucurella,True,
+38,Allen Gong,Beto,Thiago,True,
+38,Casper Guo,Szoboszlai,Saka,False,player in not available
+38,Casper Guo,Anderson,Cherki,True,
+38,Dennis Ma,Shaw,Frimpong,True,
+38,Allen Gong,Pope,Verbruggen,True,
+38,Casper Guo,Mavropanos,O'Reilly,False,player in not available
+38,Casper Guo,Botman,Tarkowski,True,
+38,Dennis Ma,Hill,Aït-Nouri,True,
+38,Allen Gong,Anderson,Groß,False,player in not available
+38,Allen Gong,Mainoo,Groß,True,
+38,Casper Guo,Danso,O'Reilly,True,
+38,Dennis Ma,Awoniyi,João Pedro,True,
+38,Casper Guo,Danso,Tarkowski,False,player in not available
+38,Casper Guo,Stones,Khusanov,True,
+38,Dennis Ma,Barry,Strand Larsen,True,
+38,Casper Guo,Hill,Tarkowski,False,player in not available
+38,Casper Guo,Sánchez,Kelleher,True,
+38,Dennis Ma,Evanilson,Raúl,True,
+38,Casper Guo,Kinsky,Kelleher,False,player out not available

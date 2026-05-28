@@ -1,0 +1,3354 @@
+{
+    "46472": [
+        {
+            "gameweek": 1,
+            "starters": [
+                "A.Becker",
+                "Virgil",
+                "Milenković",
+                "Rúben",
+                "Palmer",
+                "Gakpo",
+                "Elanga",
+                "Mitoma",
+                "Ekitiké",
+                "Gyökeres",
+                "Watkins"
+            ],
+            "bench": [
+                "Trafford",
+                "Cunha",
+                "Gabriel",
+                "Muñoz"
+            ]
+        },
+        {
+            "gameweek": 2,
+            "starters": [
+                "Trafford",
+                "Cucurella",
+                "Muñoz",
+                "J.Timber",
+                "Elanga",
+                "Cunha",
+                "Semenyo",
+                "Gakpo",
+                "Gyökeres",
+                "Watkins",
+                "Ekitiké"
+            ],
+            "bench": [
+                "A.Becker",
+                "Palmer",
+                "Lewis",
+                "Virgil"
+            ]
+        },
+        {
+            "gameweek": 3,
+            "starters": [
+                "A.Becker",
+                "Walker",
+                "Muñoz",
+                "Cucurella",
+                "Gabriel",
+                "Virgil",
+                "M.Salah",
+                "Gibbs-White",
+                "Šeško",
+                "Ekitiké",
+                "Watkins"
+            ],
+            "bench": [
+                "Pickford",
+                "B.Fernandes",
+                "Cunha",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 4,
+            "starters": [
+                "A.Becker",
+                "Muñoz",
+                "Cucurella",
+                "Gabriel",
+                "Virgil",
+                "Gvardiol",
+                "B.Fernandes",
+                "M.Salah",
+                "Semenyo",
+                "Watkins",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Pickford",
+                "Palmer",
+                "Cunha",
+                "Wissa"
+            ]
+        },
+        {
+            "gameweek": 5,
+            "starters": [
+                "A.Becker",
+                "Muñoz",
+                "Cucurella",
+                "Gabriel",
+                "Virgil",
+                "Semenyo",
+                "Palmer",
+                "Cunha",
+                "M.Salah",
+                "Watkins",
+                "Wood"
+            ],
+            "bench": [
+                "Pickford",
+                "B.Fernandes",
+                "Gvardiol",
+                "Beto"
+            ]
+        },
+        {
+            "gameweek": 6,
+            "starters": [
+                "Pickford",
+                "Cucurella",
+                "Gabriel",
+                "Virgil",
+                "Gvardiol",
+                "Reijnders",
+                "Cunha",
+                "B.Fernandes",
+                "M.Salah",
+                "Beto",
+                "Wood"
+            ],
+            "bench": [
+                "Pope",
+                "Muñoz",
+                "Watkins",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 7,
+            "starters": [
+                "Pope",
+                "Virgil",
+                "Richards",
+                "Senesi",
+                "Gabriel",
+                "Cunha",
+                "M.Salah",
+                "Gordon",
+                "B.Fernandes",
+                "Welbeck",
+                "Watkins"
+            ],
+            "bench": [
+                "Pickford",
+                "Schär",
+                "Wood",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 8,
+            "starters": [
+                "Pope",
+                "Gabriel",
+                "Virgil",
+                "Senesi",
+                "Richards",
+                "Mukiele",
+                "Gordon",
+                "Gakpo",
+                "M.Salah",
+                "Thiago",
+                "Calvert-Lewin"
+            ],
+            "bench": [
+                "Pickford",
+                "Watkins",
+                "B.Fernandes",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 9,
+            "starters": [
+                "Pope",
+                "Virgil",
+                "Senesi",
+                "Thiaw",
+                "B.Fernandes",
+                "Ndiaye",
+                "Gakpo",
+                "M.Salah",
+                "Watkins",
+                "Kroupi.Jr",
+                "Calvert-Lewin"
+            ],
+            "bench": [
+                "Pickford",
+                "Muñoz",
+                "Gabriel",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 10,
+            "starters": [
+                "Pope",
+                "Virgil",
+                "Muñoz",
+                "Andersen",
+                "Gabriel",
+                "B.Fernandes",
+                "Trossard",
+                "Gakpo",
+                "M.Salah",
+                "Welbeck",
+                "Isidor"
+            ],
+            "bench": [
+                "Pickford",
+                "Watkins",
+                "Senesi",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 11,
+            "starters": [
+                "Sánchez",
+                "Senesi",
+                "Muñoz",
+                "Keane",
+                "Gabriel",
+                "B.Fernandes",
+                "Merino",
+                "M.Salah",
+                "Bowen",
+                "Welbeck",
+                "Watkins"
+            ],
+            "bench": [
+                "Pope",
+                "Gakpo",
+                "Virgil",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 12,
+            "starters": [
+                "Sánchez",
+                "Virgil",
+                "Hincapie",
+                "Muñoz",
+                "Senesi",
+                "Sarr",
+                "M.Salah",
+                "B.Fernandes",
+                "Kroupi.Jr",
+                "Welbeck",
+                "Watkins"
+            ],
+            "bench": [
+                "Pope",
+                "Garnacho",
+                "Gabriel",
+                "Palmer"
+            ]
+        },
+        {
+            "gameweek": 13,
+            "starters": [
+                "Martinez",
+                "O'Reilly",
+                "Hincapie",
+                "Muñoz",
+                "Senesi",
+                "Sarr",
+                "Schade",
+                "B.Fernandes",
+                "Watkins",
+                "Welbeck",
+                "Kroupi.Jr"
+            ],
+            "bench": [
+                "Pope",
+                "M.Salah",
+                "Palmer",
+                "Gabriel"
+            ]
+        },
+        {
+            "gameweek": 14,
+            "starters": [
+                "Sánchez",
+                "Muñoz",
+                "O'Reilly",
+                "Hincapie",
+                "Konaté",
+                "Palmer",
+                "B.Fernandes",
+                "M.Salah",
+                "Gakpo",
+                "Nketiah",
+                "Welbeck"
+            ],
+            "bench": [
+                "Ramsdale",
+                "Watkins",
+                "Schade",
+                "Gabriel"
+            ]
+        },
+        {
+            "gameweek": 15,
+            "starters": [
+                "Ramsdale",
+                "O'Reilly",
+                "Hincapie",
+                "Tarkowski",
+                "Schade",
+                "Palmer",
+                "Doku",
+                "B.Fernandes",
+                "Watkins",
+                "Welbeck",
+                "Zirkzee"
+            ],
+            "bench": [
+                "Martinez",
+                "Muñoz",
+                "M.Salah",
+                "Gabriel"
+            ]
+        },
+        {
+            "gameweek": 16,
+            "starters": [
+                "Ramsdale",
+                "Andersen",
+                "Hincapie",
+                "Lewis-Skelly",
+                "Palmer",
+                "Madueke",
+                "Rogers",
+                "B.Fernandes",
+                "Welbeck",
+                "Watkins",
+                "Raúl"
+            ],
+            "bench": [
+                "Martinez",
+                "Doku",
+                "Muñoz",
+                "Gabriel"
+            ]
+        },
+        {
+            "gameweek": 17,
+            "starters": [
+                "Verbruggen",
+                "Andersen",
+                "Hincapie",
+                "Matheus N.",
+                "Rogers",
+                "Palmer",
+                "B.Fernandes",
+                "Schade",
+                "Cherki",
+                "Calvert-Lewin",
+                "Watkins"
+            ],
+            "bench": [
+                "Petrović",
+                "Welbeck",
+                "Muñoz",
+                "Gabriel"
+            ]
+        },
+        {
+            "gameweek": 18,
+            "starters": [
+                "Henderson",
+                "Frimpong",
+                "Hincapie",
+                "Matheus N.",
+                "Rogers",
+                "Palmer",
+                "Cunha",
+                "Cherki",
+                "Welbeck",
+                "Calvert-Lewin",
+                "Watkins"
+            ],
+            "bench": [
+                "Verbruggen",
+                "Gabriel",
+                "Muñoz",
+                "B.Fernandes"
+            ]
+        },
+        {
+            "gameweek": 19,
+            "starters": [
+                "Sánchez",
+                "Frimpong",
+                "Dorgu",
+                "O'Reilly",
+                "Rogers",
+                "Palmer",
+                "Cunha",
+                "Cherki",
+                "Welbeck",
+                "Calvert-Lewin",
+                "Watkins"
+            ],
+            "bench": [
+                "Verbruggen",
+                "Gabriel",
+                "Muñoz",
+                "B.Fernandes"
+            ]
+        },
+        {
+            "gameweek": 20,
+            "starters": [
+                "Verbruggen",
+                "Frimpong",
+                "Dorgu",
+                "Gabriel",
+                "Romero",
+                "Rogers",
+                "Cunha",
+                "Cherki",
+                "Welbeck",
+                "Calvert-Lewin",
+                "Watkins"
+            ],
+            "bench": [
+                "Sánchez",
+                "Palmer",
+                "B.Fernandes",
+                "Muñoz"
+            ]
+        },
+        {
+            "gameweek": 21,
+            "starters": [
+                "Pope",
+                "Matheus N.",
+                "Collins",
+                "Gabriel",
+                "Mykolenko",
+                "Rogers",
+                "Cunha",
+                "Cherki",
+                "Palmer",
+                "Calvert-Lewin",
+                "Watkins"
+            ],
+            "bench": [
+                "Sánchez",
+                "Welbeck",
+                "B.Fernandes",
+                "Muñoz"
+            ]
+        },
+        {
+            "gameweek": 22,
+            "starters": [
+                "Pope",
+                "Romero",
+                "Gabriel",
+                "Frimpong",
+                "B.Fernandes",
+                "Rogers",
+                "Cherki",
+                "Palmer",
+                "Welbeck",
+                "Calvert-Lewin",
+                "Watkins"
+            ],
+            "bench": [
+                "Sánchez",
+                "Matheus N.",
+                "M.Salah",
+                "Muñoz"
+            ]
+        },
+        {
+            "gameweek": 23,
+            "starters": [
+                "Sánchez",
+                "Matheus N.",
+                "Collins",
+                "Gabriel",
+                "Cherki",
+                "M.Salah",
+                "Rogers",
+                "B.Fernandes",
+                "Kroupi.Jr",
+                "Watkins",
+                "Calvert-Lewin"
+            ],
+            "bench": [
+                "Kelleher",
+                "Palmer",
+                "Muñoz",
+                "Calafiori"
+            ]
+        },
+        {
+            "gameweek": 24,
+            "starters": [
+                "Sánchez",
+                "Gabriel",
+                "Matheus N.",
+                "Ballard",
+                "Muñoz",
+                "Rogers",
+                "M.Salah",
+                "B.Fernandes",
+                "Palmer",
+                "Cherki",
+                "Kroupi.Jr"
+            ],
+            "bench": [
+                "Kelleher",
+                "Watkins",
+                "Calafiori",
+                "Calvert-Lewin"
+            ]
+        },
+        {
+            "gameweek": 25,
+            "starters": [
+                "Sánchez",
+                "Gabriel",
+                "Calafiori",
+                "Andersen",
+                "Struijk",
+                "M.Salah",
+                "B.Fernandes",
+                "Palmer",
+                "Madueke",
+                "Rogers",
+                "Calvert-Lewin"
+            ],
+            "bench": [
+                "Kelleher",
+                "Kroupi.Jr",
+                "Muñoz",
+                "Watkins"
+            ]
+        },
+        {
+            "gameweek": 26,
+            "starters": [
+                "Sánchez",
+                "Gabriel",
+                "Calafiori",
+                "Muñoz",
+                "Matheus N.",
+                "Milenković",
+                "M.Salah",
+                "B.Fernandes",
+                "Palmer",
+                "Madueke",
+                "Watkins"
+            ],
+            "bench": [
+                "Kelleher",
+                "Rogers",
+                "Kroupi.Jr",
+                "Calvert-Lewin"
+            ]
+        },
+        {
+            "gameweek": 27,
+            "starters": [
+                "Sánchez",
+                "Gabriel",
+                "Muñoz",
+                "Hill",
+                "Matheus N.",
+                "Rogers",
+                "M.Salah",
+                "B.Fernandes",
+                "Palmer",
+                "Rayan",
+                "Strand Larsen"
+            ],
+            "bench": [
+                "Kelleher",
+                "Watkins",
+                "Calvert-Lewin",
+                "Hincapie"
+            ]
+        },
+        {
+            "gameweek": 28,
+            "starters": [
+                "Vicario",
+                "O'Reilly",
+                "Kerkez",
+                "Hill",
+                "Gabriel",
+                "Palmer",
+                "Rayan",
+                "M.Salah",
+                "Rogers",
+                "B.Fernandes",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Kelleher",
+                "Watkins",
+                "Calvert-Lewin",
+                "Hincapie"
+            ]
+        },
+        {
+            "gameweek": 29,
+            "starters": [
+                "Leno",
+                "Gabriel",
+                "Hincapie",
+                "Matheus N.",
+                "Kerkez",
+                "M.Salah",
+                "B.Fernandes",
+                "Palmer",
+                "Dewsbury-Hall",
+                "Calvert-Lewin",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Kelleher",
+                "Hill",
+                "Rogers",
+                "Watkins"
+            ]
+        },
+        {
+            "gameweek": 30,
+            "starters": [
+                "Kelleher",
+                "O'Reilly",
+                "Hincapie",
+                "Hill",
+                "Gabriel",
+                "Palmer",
+                "Tavernier",
+                "M.Salah",
+                "B.Fernandes",
+                "Calvert-Lewin",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Leno",
+                "Kerkez",
+                "Rogers",
+                "Watkins"
+            ]
+        },
+        {
+            "gameweek": 31,
+            "starters": [
+                "Leno",
+                "Thiaw",
+                "Struijk",
+                "Hill",
+                "Garner",
+                "Gordon",
+                "B.Fernandes",
+                "Palmer",
+                "Tavernier",
+                "Watkins",
+                "Calvert-Lewin"
+            ],
+            "bench": [
+                "Kelleher",
+                "Gyökeres",
+                "Gabriel",
+                "Hincapie"
+            ]
+        },
+        {
+            "gameweek": 32,
+            "starters": [
+                "Kelleher",
+                "Thiaw",
+                "Gabriel",
+                "Van Hecke",
+                "O'Reilly",
+                "Mavropanos",
+                "Garner",
+                "Gordon",
+                "B.Fernandes",
+                "Welbeck",
+                "Watkins"
+            ],
+            "bench": [
+                "Mamardashvili",
+                "Palmer",
+                "Tavernier",
+                "Calvert-Lewin"
+            ]
+        },
+        {
+            "gameweek": 33,
+            "starters": [
+                "Sels",
+                "Bijol",
+                "Van Hecke",
+                "O'Reilly",
+                "Hill",
+                "Tavernier",
+                "Palmer",
+                "Cherki",
+                "B.Fernandes",
+                "Welbeck",
+                "Calvert-Lewin"
+            ],
+            "bench": [
+                "Mamardashvili",
+                "Garner",
+                "Watkins",
+                "Gabriel"
+            ]
+        },
+        {
+            "gameweek": 34,
+            "starters": [
+                "Woodman",
+                "Ballard",
+                "Van de Ven",
+                "Gabriel",
+                "Hincapie",
+                "Summerville",
+                "Xavi",
+                "B.Fernandes",
+                "Watkins",
+                "Welbeck",
+                "Šeško"
+            ],
+            "bench": [
+                "Hermansen",
+                "Palmer",
+                "Cherki",
+                "O'Reilly"
+            ]
+        },
+        {
+            "gameweek": 35,
+            "starters": [
+                "Darlow",
+                "Ballard",
+                "Hill",
+                "O'Reilly",
+                "Gabriel",
+                "Bruno G.",
+                "Palmer",
+                "Cherki",
+                "B.Fernandes",
+                "Watkins",
+                "Calvert-Lewin"
+            ],
+            "bench": [
+                "Henderson",
+                "Hincapie",
+                "Welbeck",
+                "Garner"
+            ]
+        },
+        {
+            "gameweek": 36,
+            "starters": [
+                "Henderson",
+                "O'Reilly",
+                "Gabriel",
+                "Van Hecke",
+                "Khusanov",
+                "Hinshelwood",
+                "Cherki",
+                "B.Fernandes",
+                "Saka",
+                "Welbeck",
+                "Watkins"
+            ],
+            "bench": [
+                "Kelleher",
+                "Calafiori",
+                "Bruno G.",
+                "Calvert-Lewin"
+            ]
+        },
+        {
+            "gameweek": 37,
+            "starters": [
+                "Kelleher",
+                "O'Reilly",
+                "Gabriel",
+                "Tarkowski",
+                "Lewis-Skelly",
+                "Cherki",
+                "Hinshelwood",
+                "B.Fernandes",
+                "Saka",
+                "Bruno G.",
+                "Welbeck"
+            ],
+            "bench": [
+                "Mamardashvili",
+                "Watkins",
+                "Khusanov",
+                "Calvert-Lewin"
+            ]
+        },
+        {
+            "gameweek": 38,
+            "starters": [
+                "Sánchez",
+                "Gabriel",
+                "Botman",
+                "Mosquera",
+                "Stones",
+                "Danso",
+                "Hinshelwood",
+                "B.Fernandes",
+                "M.Salah",
+                "Anderson",
+                "Flemming"
+            ],
+            "bench": [
+                "Mamardashvili",
+                "Welbeck",
+                "Bruno G.",
+                "Watkins"
+            ]
+        }
+    ],
+    "46532": [
+        {
+            "gameweek": 1,
+            "starters": [
+                "Sels",
+                "James",
+                "Saliba",
+                "Aït-Nouri",
+                "Lewis-Skelly",
+                "Saka",
+                "Eze",
+                "Gordon",
+                "Neto",
+                "Rogers",
+                "Haaland"
+            ],
+            "bench": [
+                "Pope",
+                "Isak",
+                "Havertz",
+                "Schär"
+            ]
+        },
+        {
+            "gameweek": 2,
+            "starters": [
+                "Martinez",
+                "James",
+                "Saliba",
+                "Aït-Nouri",
+                "Mitchell",
+                "Saka",
+                "Reijnders",
+                "Rogers",
+                "Neto",
+                "Strand Larsen",
+                "Haaland"
+            ],
+            "bench": [
+                "Pope",
+                "Schär",
+                "Eze",
+                "Isak"
+            ]
+        },
+        {
+            "gameweek": 3,
+            "starters": [
+                "Pope",
+                "James",
+                "Livramento",
+                "Pedro Porro",
+                "Aït-Nouri",
+                "Gakpo",
+                "Reijnders",
+                "Eze",
+                "Neto",
+                "Hudson-Odoi",
+                "Haaland"
+            ],
+            "bench": [
+                "Martinez",
+                "Saliba",
+                "Thiago",
+                "Isak"
+            ]
+        },
+        {
+            "gameweek": 4,
+            "starters": [
+                "Pope",
+                "Chalobah",
+                "Livramento",
+                "Mosquera",
+                "Pedro Porro",
+                "Gakpo",
+                "Eze",
+                "Neto",
+                "Madueke",
+                "Woltemade",
+                "Haaland"
+            ],
+            "bench": [
+                "Martinez",
+                "Caicedo",
+                "Isak",
+                "Saliba"
+            ]
+        },
+        {
+            "gameweek": 5,
+            "starters": [
+                "Henderson",
+                "Chalobah",
+                "Konaté",
+                "Livramento",
+                "Pedro Porro",
+                "Gakpo",
+                "Eze",
+                "Caicedo",
+                "Isak",
+                "Woltemade",
+                "Haaland"
+            ],
+            "bench": [
+                "Pope",
+                "Neto",
+                "Saliba",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 6,
+            "starters": [
+                "A.Becker",
+                "Chalobah",
+                "Rúben",
+                "Saliba",
+                "Pedro Porro",
+                "Eze",
+                "Caicedo",
+                "Xavi",
+                "Woltemade",
+                "Isak",
+                "Haaland"
+            ],
+            "bench": [
+                "Henderson",
+                "Saka",
+                "Livramento",
+                "Gravenberch"
+            ]
+        },
+        {
+            "gameweek": 7,
+            "starters": [
+                "Henderson",
+                "Botman",
+                "Rúben",
+                "Saliba",
+                "Pedro Porro",
+                "Eze",
+                "Saka",
+                "Xavi",
+                "Woltemade",
+                "Isak",
+                "Haaland"
+            ],
+            "bench": [
+                "Mamardashvili",
+                "Caicedo",
+                "Chalobah",
+                "Gravenberch"
+            ]
+        },
+        {
+            "gameweek": 8,
+            "starters": [
+                "Henderson",
+                "Pedro Porro",
+                "Saliba",
+                "Botman",
+                "Saka",
+                "Xavi",
+                "Sarr",
+                "Eze",
+                "Woltemade",
+                "Isak",
+                "Haaland"
+            ],
+            "bench": [
+                "Mamardashvili",
+                "Rúben",
+                "Chalobah",
+                "Caicedo"
+            ]
+        },
+        {
+            "gameweek": 9,
+            "starters": [
+                "Mamardashvili",
+                "Botman",
+                "Saliba",
+                "Chalobah",
+                "Rúben",
+                "Saka",
+                "Caicedo",
+                "Eze",
+                "Rogers",
+                "Woltemade",
+                "Haaland"
+            ],
+            "bench": [
+                "Henderson",
+                "Sarr",
+                "Pedro Porro",
+                "Isak"
+            ]
+        },
+        {
+            "gameweek": 10,
+            "starters": [
+                "Raya",
+                "Pedro Porro",
+                "Saliba",
+                "Chalobah",
+                "Rúben",
+                "Saka",
+                "Caicedo",
+                "Rogers",
+                "Eze",
+                "Sarr",
+                "Haaland"
+            ],
+            "bench": [
+                "A.Becker",
+                "Mosquera",
+                "Thiago",
+                "Isak"
+            ]
+        },
+        {
+            "gameweek": 11,
+            "starters": [
+                "Raya",
+                "Pedro Porro",
+                "Saliba",
+                "Chalobah",
+                "Mitchell",
+                "Saka",
+                "Caicedo",
+                "Xhaka",
+                "Eze",
+                "Mac Allister",
+                "Haaland"
+            ],
+            "bench": [
+                "A.Becker",
+                "Rúben",
+                "Thiago",
+                "Isak"
+            ]
+        },
+        {
+            "gameweek": 12,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Mitchell",
+                "Rúben",
+                "Chalobah",
+                "Doku",
+                "Saka",
+                "Eze",
+                "Xhaka",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "A.Becker",
+                "Caicedo",
+                "Pedro Porro",
+                "Isak"
+            ]
+        },
+        {
+            "gameweek": 13,
+            "starters": [
+                "A.Becker",
+                "Livramento",
+                "Mitchell",
+                "Rúben",
+                "Gibbs-White",
+                "Eze",
+                "Saka",
+                "Caicedo",
+                "Barnes",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "Raya",
+                "Isak",
+                "Saliba",
+                "Chalobah"
+            ]
+        },
+        {
+            "gameweek": 14,
+            "starters": [
+                "Raya",
+                "Thiaw",
+                "Mitchell",
+                "Rúben",
+                "Chalobah",
+                "Gibbs-White",
+                "Eze",
+                "Saka",
+                "Enzo",
+                "Haaland",
+                "Isak"
+            ],
+            "bench": [
+                "A.Becker",
+                "Saliba",
+                "Thiago",
+                "Caicedo"
+            ]
+        },
+        {
+            "gameweek": 15,
+            "starters": [
+                "Raya",
+                "Thiaw",
+                "Mitchell",
+                "Chalobah",
+                "Saka",
+                "Enzo",
+                "Gibbs-White",
+                "Eze",
+                "Thiago",
+                "Isak",
+                "Haaland"
+            ],
+            "bench": [
+                "A.Becker",
+                "Rúben",
+                "Saliba",
+                "Caicedo"
+            ]
+        },
+        {
+            "gameweek": 16,
+            "starters": [
+                "Raya",
+                "White",
+                "Mitchell",
+                "Chalobah",
+                "Rúben",
+                "Saka",
+                "Enzo",
+                "Gibbs-White",
+                "Eze",
+                "Thiago",
+                "Haaland"
+            ],
+            "bench": [
+                "A.Becker",
+                "Saliba",
+                "Isak",
+                "Caicedo"
+            ]
+        },
+        {
+            "gameweek": 17,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Mitchell",
+                "Senesi",
+                "Rúben",
+                "Saka",
+                "Tavernier",
+                "Caicedo",
+                "Kamara",
+                "Thiago",
+                "Haaland"
+            ],
+            "bench": [
+                "A.Becker",
+                "Chalobah",
+                "Gravenberch",
+                "Isak"
+            ]
+        },
+        {
+            "gameweek": 18,
+            "starters": [
+                "A.Becker",
+                "Saliba",
+                "Mitchell",
+                "Senesi",
+                "Rúben",
+                "Saka",
+                "Gravenberch",
+                "Caicedo",
+                "Stach",
+                "Gyökeres",
+                "Haaland"
+            ],
+            "bench": [
+                "Raya",
+                "Thiago",
+                "Chalobah",
+                "McGinn"
+            ]
+        },
+        {
+            "gameweek": 19,
+            "starters": [
+                "A.Becker",
+                "Saliba",
+                "Mitchell",
+                "Senesi",
+                "Rúben",
+                "Saka",
+                "Gravenberch",
+                "Caicedo",
+                "Stach",
+                "Gyökeres",
+                "Haaland"
+            ],
+            "bench": [
+                "Raya",
+                "Thiago",
+                "Chalobah",
+                "McGinn"
+            ]
+        },
+        {
+            "gameweek": 20,
+            "starters": [
+                "A.Becker",
+                "Saliba",
+                "Guéhi",
+                "Mukiele",
+                "Rúben",
+                "Saka",
+                "Gravenberch",
+                "Xhaka",
+                "Stach",
+                "Thiago",
+                "Haaland"
+            ],
+            "bench": [
+                "Raya",
+                "Gordon",
+                "Gyökeres",
+                "Chalobah"
+            ]
+        },
+        {
+            "gameweek": 21,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Cash",
+                "Mukiele",
+                "Chalobah",
+                "Saka",
+                "Gravenberch",
+                "Ødegaard",
+                "Reijnders",
+                "Thiago",
+                "Haaland"
+            ],
+            "bench": [
+                "A.Becker",
+                "Stach",
+                "Gyökeres",
+                "Rúben"
+            ]
+        },
+        {
+            "gameweek": 22,
+            "starters": [
+                "A.Becker",
+                "Saliba",
+                "Cash",
+                "Mukiele",
+                "Chalobah",
+                "Gravenberch",
+                "Saka",
+                "Wilson",
+                "Schade",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "Raya",
+                "Šeško",
+                "Mbeumo",
+                "Guéhi"
+            ]
+        },
+        {
+            "gameweek": 23,
+            "starters": [
+                "A.Becker",
+                "Saliba",
+                "Guéhi",
+                "Mukiele",
+                "Chalobah",
+                "Saka",
+                "Mbeumo",
+                "Wilson",
+                "Schade",
+                "Thiago",
+                "Haaland"
+            ],
+            "bench": [
+                "Raya",
+                "Gravenberch",
+                "Cash",
+                "Šeško"
+            ]
+        },
+        {
+            "gameweek": 24,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Guéhi",
+                "Mukiele",
+                "Chalobah",
+                "Cash",
+                "Gibbs-White",
+                "Wilson",
+                "Mbeumo",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "A.Becker",
+                "Estêvão",
+                "Saka",
+                "Havertz"
+            ]
+        },
+        {
+            "gameweek": 25,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Cash",
+                "Chalobah",
+                "Gibbs-White",
+                "Mbeumo",
+                "Wilson",
+                "Summerville",
+                "Havertz",
+                "Thiago",
+                "Haaland"
+            ],
+            "bench": [
+                "A.Becker",
+                "Mukiele",
+                "Guéhi",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 26,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Mitchell",
+                "Guéhi",
+                "Chalobah",
+                "Zubimendi",
+                "Summerville",
+                "Mbeumo",
+                "Wilson",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "A.Becker",
+                "Havertz",
+                "Mukiele",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 27,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Mitchell",
+                "Guéhi",
+                "Chalobah",
+                "Zubimendi",
+                "Summerville",
+                "Mbeumo",
+                "Wilson",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "A.Becker",
+                "Havertz",
+                "Mukiele",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 28,
+            "starters": [
+                "A.Becker",
+                "Saliba",
+                "Mitchell",
+                "Guéhi",
+                "Konsa",
+                "Scott",
+                "Wilson",
+                "Mbeumo",
+                "Summerville",
+                "Šeško",
+                "Thiago"
+            ],
+            "bench": [
+                "Raya",
+                "Haaland",
+                "Chalobah",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 29,
+            "starters": [
+                "A.Becker",
+                "Chalobah",
+                "Mitchell",
+                "Guéhi",
+                "Konsa",
+                "Gravenberch",
+                "Saka",
+                "Mbeumo",
+                "Haaland",
+                "Šeško",
+                "Thiago"
+            ],
+            "bench": [
+                "Raya",
+                "Saliba",
+                "Wilson",
+                "Scott"
+            ]
+        },
+        {
+            "gameweek": 30,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Mitchell",
+                "Guéhi",
+                "Chalobah",
+                "Cherki",
+                "Mbeumo",
+                "Scott",
+                "Saka",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "A.Becker",
+                "Šeško",
+                "Truffert",
+                "Wilson"
+            ]
+        },
+        {
+            "gameweek": 31,
+            "starters": [
+                "A.Becker",
+                "Tarkowski",
+                "Virgil",
+                "Tete",
+                "Livramento",
+                "Szoboszlai",
+                "Mbeumo",
+                "Stach",
+                "Wilson",
+                "Šeško",
+                "Thiago"
+            ],
+            "bench": [
+                "Raya",
+                "Haaland",
+                "Saliba",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 32,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Virgil",
+                "Tarkowski",
+                "Mitchell",
+                "Szoboszlai",
+                "Wilson",
+                "Mbeumo",
+                "Šeško",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "Verbruggen",
+                "Saka",
+                "Guéhi",
+                "Stach"
+            ]
+        },
+        {
+            "gameweek": 33,
+            "starters": [
+                "Verbruggen",
+                "Tarkowski",
+                "N.Williams",
+                "Guéhi",
+                "Mitchell",
+                "Okafor",
+                "Rodrigo",
+                "Scott",
+                "Wilson",
+                "Haaland",
+                "Thiago"
+            ],
+            "bench": [
+                "Raya",
+                "Beto",
+                "Szoboszlai",
+                "Saliba"
+            ]
+        },
+        {
+            "gameweek": 34,
+            "starters": [
+                "Raya",
+                "Mavropanos",
+                "Saliba",
+                "Virgil",
+                "Mitchell",
+                "M.Salah",
+                "Eze",
+                "Dewsbury-Hall",
+                "Wilson",
+                "Beto",
+                "Thiago"
+            ],
+            "bench": [
+                "Verbruggen",
+                "Haaland",
+                "Okafor",
+                "Guéhi"
+            ]
+        },
+        {
+            "gameweek": 35,
+            "starters": [
+                "Raya",
+                "Mavropanos",
+                "Saliba",
+                "Virgil",
+                "Justin",
+                "Groß",
+                "Eze",
+                "Dewsbury-Hall",
+                "Anderson",
+                "Igor Jesus",
+                "Thiago"
+            ],
+            "bench": [
+                "Verbruggen",
+                "Haaland",
+                "Okafor",
+                "Guéhi"
+            ]
+        },
+        {
+            "gameweek": 36,
+            "starters": [
+                "Raya",
+                "Saliba",
+                "Virgil",
+                "Guéhi",
+                "F.Kadıoğlu",
+                "Dewsbury-Hall",
+                "Groß",
+                "Doku",
+                "Eze",
+                "Haaland",
+                "Osula"
+            ],
+            "bench": [
+                "Verbruggen",
+                "Okafor",
+                "Thiago",
+                "Truffert"
+            ]
+        },
+        {
+            "gameweek": 37,
+            "starters": [
+                "Raya",
+                "Virgil",
+                "Saliba",
+                "Guéhi",
+                "F.Kadıoğlu",
+                "Groß",
+                "Eze",
+                "Dewsbury-Hall",
+                "Doku",
+                "Haaland",
+                "Osula"
+            ],
+            "bench": [
+                "Verbruggen",
+                "Thiago",
+                "Truffert",
+                "Rayan"
+            ]
+        },
+        {
+            "gameweek": 38,
+            "starters": [
+                "Pope",
+                "Virgil",
+                "Truffert",
+                "Maguire",
+                "Doku",
+                "Rayan",
+                "Mainoo",
+                "Dewsbury-Hall",
+                "Szoboszlai",
+                "Kroupi.Jr",
+                "Beto"
+            ],
+            "bench": [
+                "Raya",
+                "Haaland",
+                "Saliba",
+                "Guéhi"
+            ]
+        }
+    ],
+    "57636": [
+        {
+            "gameweek": 1,
+            "starters": [
+                "Pickford",
+                "Pedro Porro",
+                "Van de Ven",
+                "Kerkez",
+                "Konaté",
+                "Wirtz",
+                "B.Fernandes",
+                "Ndiaye",
+                "Mac Allister",
+                "João Pedro",
+                "Bowen"
+            ],
+            "bench": [
+                "Ederson M.",
+                "Welbeck",
+                "N.Williams",
+                "Sarr"
+            ]
+        },
+        {
+            "gameweek": 2,
+            "starters": [
+                "Pickford",
+                "Ballard",
+                "Calafiori",
+                "Kerkez",
+                "Stones",
+                "Wirtz",
+                "Kudus",
+                "Rice",
+                "B.Fernandes",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Vicario",
+                "Bowen",
+                "Van de Ven",
+                "Mac Allister"
+            ]
+        },
+        {
+            "gameweek": 3,
+            "starters": [
+                "Vicario",
+                "Van de Ven",
+                "Calafiori",
+                "Burn",
+                "Stones",
+                "Wirtz",
+                "Kudus",
+                "Rice",
+                "Mac Allister",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Trafford",
+                "Mateta",
+                "Lewis",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 4,
+            "starters": [
+                "Vicario",
+                "Lacroix",
+                "Calafiori",
+                "Burn",
+                "Xavi",
+                "Wirtz",
+                "Kudus",
+                "Rice",
+                "Mateta",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Donnarumma",
+                "Stones",
+                "Van de Ven",
+                "Saka"
+            ]
+        },
+        {
+            "gameweek": 5,
+            "starters": [
+                "Vicario",
+                "Lacroix",
+                "Van de Ven",
+                "Burn",
+                "Xavi",
+                "Wirtz",
+                "Foden",
+                "Rice",
+                "Mateta",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Donnarumma",
+                "Stones",
+                "Calafiori",
+                "Kudus"
+            ]
+        },
+        {
+            "gameweek": 6,
+            "starters": [
+                "Donnarumma",
+                "Van de Ven",
+                "Calafiori",
+                "Burn",
+                "Wirtz",
+                "Foden",
+                "Rice",
+                "Kudus",
+                "Neto",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Vicario",
+                "Stones",
+                "Lacroix",
+                "Mateta"
+            ]
+        },
+        {
+            "gameweek": 7,
+            "starters": [
+                "Donnarumma",
+                "Van de Ven",
+                "Calafiori",
+                "Burn",
+                "Foden",
+                "Rice",
+                "Kudus",
+                "Neto",
+                "João Pedro",
+                "Mateta",
+                "Richarlison"
+            ],
+            "bench": [
+                "Vicario",
+                "Stones",
+                "Wirtz",
+                "Lacroix"
+            ]
+        },
+        {
+            "gameweek": 8,
+            "starters": [
+                "Donnarumma",
+                "Calafiori",
+                "Van de Ven",
+                "Cucurella",
+                "Wirtz",
+                "Foden",
+                "Rice",
+                "Kudus",
+                "Mateta",
+                "João Pedro",
+                "Šeško"
+            ],
+            "bench": [
+                "Vicario",
+                "Burn",
+                "Neto",
+                "Lacroix"
+            ]
+        },
+        {
+            "gameweek": 9,
+            "starters": [
+                "Donnarumma",
+                "Calafiori",
+                "Van de Ven",
+                "Cucurella",
+                "Wirtz",
+                "Foden",
+                "Rice",
+                "Kudus",
+                "Neto",
+                "Mateta",
+                "João Pedro"
+            ],
+            "bench": [
+                "Vicario",
+                "Burn",
+                "Šeško",
+                "Lacroix"
+            ]
+        },
+        {
+            "gameweek": 10,
+            "starters": [
+                "Donnarumma",
+                "Calafiori",
+                "Van de Ven",
+                "Cucurella",
+                "Wirtz",
+                "Foden",
+                "Rice",
+                "Kudus",
+                "Neto",
+                "Mateta",
+                "João Pedro"
+            ],
+            "bench": [
+                "Vicario",
+                "Burn",
+                "Šeško",
+                "Lacroix"
+            ]
+        },
+        {
+            "gameweek": 11,
+            "starters": [
+                "Donnarumma",
+                "Calafiori",
+                "Van de Ven",
+                "Cucurella",
+                "Burn",
+                "Wirtz",
+                "Foden",
+                "Rice",
+                "Neto",
+                "Mateta",
+                "João Pedro"
+            ],
+            "bench": [
+                "Vicario",
+                "Kudus",
+                "Šeško",
+                "Lacroix"
+            ]
+        },
+        {
+            "gameweek": 12,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Van de Ven",
+                "Cucurella",
+                "Kudus",
+                "Foden",
+                "Rice",
+                "Neto",
+                "Richarlison",
+                "João Pedro",
+                "Mateta"
+            ],
+            "bench": [
+                "Vicario",
+                "Burn",
+                "Wirtz",
+                "Calafiori"
+            ]
+        },
+        {
+            "gameweek": 13,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Van de Ven",
+                "Cucurella",
+                "Keane",
+                "Minteh",
+                "Bruno G.",
+                "Rice",
+                "Neto",
+                "Mateta",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Kudus",
+                "Richarlison",
+                "Calafiori"
+            ]
+        },
+        {
+            "gameweek": 14,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Calafiori",
+                "Cucurella",
+                "Minteh",
+                "Bruno G.",
+                "Rice",
+                "Kudus",
+                "Neto",
+                "João Pedro",
+                "Mateta"
+            ],
+            "bench": [
+                "Pickford",
+                "Van de Ven",
+                "Richarlison",
+                "Keane"
+            ]
+        },
+        {
+            "gameweek": 15,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Van Hecke",
+                "Cucurella",
+                "Rice",
+                "Kudus",
+                "Bruno G.",
+                "Wirtz",
+                "Neto",
+                "Mateta",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Richarlison",
+                "Keane",
+                "Calafiori"
+            ]
+        },
+        {
+            "gameweek": 16,
+            "starters": [
+                "Donnarumma",
+                "Keane",
+                "Van Hecke",
+                "Cucurella",
+                "Rice",
+                "Kudus",
+                "Bruno G.",
+                "Neto",
+                "Wirtz",
+                "Richarlison",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Lacroix",
+                "Calafiori"
+            ]
+        },
+        {
+            "gameweek": 17,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Keane",
+                "Cucurella",
+                "Kudus",
+                "Bruno G.",
+                "Rice",
+                "Neto",
+                "João Pedro",
+                "Mateta",
+                "Richarlison"
+            ],
+            "bench": [
+                "Pickford",
+                "Van Hecke",
+                "Wirtz",
+                "Calafiori"
+            ]
+        },
+        {
+            "gameweek": 18,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Van Hecke",
+                "Cucurella",
+                "Wirtz",
+                "Bruno G.",
+                "Rice",
+                "Kudus",
+                "Neto",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Calafiori",
+                "Keane"
+            ]
+        },
+        {
+            "gameweek": 19,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Van Hecke",
+                "Cucurella",
+                "Wirtz",
+                "Bruno G.",
+                "Kudus",
+                "Neto",
+                "Mateta",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Pickford",
+                "Rice",
+                "Calafiori",
+                "Keane"
+            ]
+        },
+        {
+            "gameweek": 20,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Van Hecke",
+                "Keane",
+                "Wirtz",
+                "Bruno G.",
+                "Rice",
+                "Kudus",
+                "Neto",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Calafiori",
+                "Cucurella"
+            ]
+        },
+        {
+            "gameweek": 21,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Van Hecke",
+                "Cucurella",
+                "Wirtz",
+                "Bruno G.",
+                "Rice",
+                "Neto",
+                "Mateta",
+                "João Pedro",
+                "Richarlison"
+            ],
+            "bench": [
+                "Pickford",
+                "Kudus",
+                "Calafiori",
+                "Keane"
+            ]
+        },
+        {
+            "gameweek": 22,
+            "starters": [
+                "Donnarumma",
+                "Van de Ven",
+                "Cucurella",
+                "Lacroix",
+                "Senesi",
+                "Rice",
+                "Bruno G.",
+                "Neto",
+                "Wirtz",
+                "Raúl",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Trossard",
+                "White"
+            ]
+        },
+        {
+            "gameweek": 23,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Senesi",
+                "Van de Ven",
+                "Cucurella",
+                "Wirtz",
+                "Rice",
+                "Neto",
+                "Mateta",
+                "João Pedro",
+                "Raúl"
+            ],
+            "bench": [
+                "Pickford",
+                "Bruno G.",
+                "Trossard",
+                "White"
+            ]
+        },
+        {
+            "gameweek": 24,
+            "starters": [
+                "Donnarumma",
+                "Lacroix",
+                "Senesi",
+                "Cucurella",
+                "Trossard",
+                "Wirtz",
+                "Bruno G.",
+                "Rice",
+                "Neto",
+                "João Pedro",
+                "Raúl"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Van de Ven",
+                "White"
+            ]
+        },
+        {
+            "gameweek": 25,
+            "starters": [
+                "Donnarumma",
+                "Van de Ven",
+                "Cucurella",
+                "Lacroix",
+                "Senesi",
+                "Rice",
+                "Bruno G.",
+                "Neto",
+                "Wirtz",
+                "Raúl",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Trossard",
+                "White"
+            ]
+        },
+        {
+            "gameweek": 26,
+            "starters": [
+                "Donnarumma",
+                "Van de Ven",
+                "Cucurella",
+                "Lacroix",
+                "Senesi",
+                "Rice",
+                "Bruno G.",
+                "Neto",
+                "Wirtz",
+                "Raúl",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Trossard",
+                "White"
+            ]
+        },
+        {
+            "gameweek": 27,
+            "starters": [
+                "Donnarumma",
+                "Senesi",
+                "Van de Ven",
+                "Cucurella",
+                "Trossard",
+                "Wirtz",
+                "Bruno G.",
+                "Rice",
+                "Neto",
+                "João Pedro",
+                "Raúl"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Lacroix",
+                "White"
+            ]
+        },
+        {
+            "gameweek": 28,
+            "starters": [
+                "Donnarumma",
+                "Van de Ven",
+                "Konaté",
+                "Lacroix",
+                "Senesi",
+                "Rice",
+                "Foden",
+                "Neto",
+                "Wirtz",
+                "Raúl",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Mateta",
+                "Bruno G.",
+                "Cucurella"
+            ]
+        },
+        {
+            "gameweek": 29,
+            "starters": [
+                "Donnarumma",
+                "Van de Ven",
+                "Konaté",
+                "Aït-Nouri",
+                "Senesi",
+                "Rice",
+                "Mac Allister",
+                "Casemiro",
+                "O.Dango",
+                "Raúl",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Strand Larsen",
+                "Cucurella",
+                "Wirtz"
+            ]
+        },
+        {
+            "gameweek": 30,
+            "starters": [
+                "Donnarumma",
+                "Frimpong",
+                "Aït-Nouri",
+                "Senesi",
+                "Rice",
+                "Wirtz",
+                "Casemiro",
+                "O.Dango",
+                "Gibbs-White",
+                "Raúl",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Konaté",
+                "Strand Larsen",
+                "Cucurella"
+            ]
+        },
+        {
+            "gameweek": 31,
+            "starters": [
+                "Pickford",
+                "Konaté",
+                "Senesi",
+                "Frimpong",
+                "Cucurella",
+                "Wirtz",
+                "O.Dango",
+                "Gibbs-White",
+                "Casemiro",
+                "João Pedro",
+                "Raúl"
+            ],
+            "bench": [
+                "Donnarumma",
+                "Aït-Nouri",
+                "Strand Larsen",
+                "Rice"
+            ]
+        },
+        {
+            "gameweek": 32,
+            "starters": [
+                "Donnarumma",
+                "Frimpong",
+                "Aït-Nouri",
+                "Senesi",
+                "Rice",
+                "Wirtz",
+                "Casemiro",
+                "O.Dango",
+                "Gibbs-White",
+                "Raúl",
+                "João Pedro"
+            ],
+            "bench": [
+                "Pickford",
+                "Konaté",
+                "Strand Larsen",
+                "Cucurella"
+            ]
+        },
+        {
+            "gameweek": 33,
+            "starters": [
+                "Donnarumma",
+                "Aït-Nouri",
+                "Senesi",
+                "Frimpong",
+                "Konaté",
+                "Wirtz",
+                "O.Dango",
+                "Rice",
+                "Gibbs-White",
+                "Casemiro",
+                "Raúl"
+            ],
+            "bench": [
+                "Pickford",
+                "João Pedro",
+                "Strand Larsen",
+                "Cucurella"
+            ]
+        },
+        {
+            "gameweek": 34,
+            "starters": [
+                "Pickford",
+                "Konaté",
+                "Senesi",
+                "Frimpong",
+                "Wirtz",
+                "O.Dango",
+                "Rice",
+                "Gibbs-White",
+                "Casemiro",
+                "Strand Larsen",
+                "Raúl"
+            ],
+            "bench": [
+                "Donnarumma",
+                "Aït-Nouri",
+                "João Pedro",
+                "Cucurella"
+            ]
+        },
+        {
+            "gameweek": 35,
+            "starters": [
+                "Donnarumma",
+                "Konaté",
+                "Senesi",
+                "Frimpong",
+                "Wirtz",
+                "O.Dango",
+                "Rice",
+                "Gibbs-White",
+                "Casemiro",
+                "João Pedro",
+                "Raúl"
+            ],
+            "bench": [
+                "Pickford",
+                "Aït-Nouri",
+                "Strand Larsen",
+                "Cucurella"
+            ]
+        },
+        {
+            "gameweek": 36,
+            "starters": [
+                "Donnarumma",
+                "Aït-Nouri",
+                "Senesi",
+                "Frimpong",
+                "Konaté",
+                "Cucurella",
+                "O.Dango",
+                "Rice",
+                "Strand Larsen",
+                "João Pedro",
+                "Raúl"
+            ],
+            "bench": [
+                "Pickford",
+                "Wirtz",
+                "Gibbs-White",
+                "Casemiro"
+            ]
+        },
+        {
+            "gameweek": 37,
+            "starters": [
+                "Donnarumma",
+                "Konaté",
+                "Senesi",
+                "Cucurella",
+                "Wirtz",
+                "O.Dango",
+                "Rice",
+                "Gibbs-White",
+                "Casemiro",
+                "Strand Larsen",
+                "Raúl"
+            ],
+            "bench": [
+                "Pickford",
+                "Aït-Nouri",
+                "João Pedro",
+                "Frimpong"
+            ]
+        },
+        {
+            "gameweek": 38,
+            "starters": [
+                "Pickford",
+                "Konaté",
+                "Mavropanos",
+                "Senesi",
+                "Shaw",
+                "Bernardo",
+                "Gravenberch",
+                "J.Palhinha",
+                "Gibbs-White",
+                "Evanilson",
+                "Barry"
+            ],
+            "bench": [
+                "Donnarumma",
+                "Awoniyi",
+                "Hill",
+                "O.Dango"
+            ]
+        }
+    ],
+    "58827": [
+        {
+            "gameweek": 1,
+            "starters": [
+                "Raya",
+                "Frimpong",
+                "Cucurella",
+                "Romero",
+                "M.Salah",
+                "Mbeumo",
+                "Marmoush",
+                "Ødegaard",
+                "Enzo",
+                "Solanke",
+                "Wood"
+            ],
+            "bench": [
+                "Sánchez",
+                "Gvardiol",
+                "Šeško",
+                "Guéhi"
+            ]
+        },
+        {
+            "gameweek": 2,
+            "starters": [
+                "Raya",
+                "De Ligt",
+                "Romero",
+                "Gabriel",
+                "M.Salah",
+                "Mbeumo",
+                "Onana",
+                "Ødegaard",
+                "Enzo",
+                "Šeško",
+                "Wood"
+            ],
+            "bench": [
+                "Sánchez",
+                "Acheampong",
+                "Solanke",
+                "Guéhi"
+            ]
+        },
+        {
+            "gameweek": 3,
+            "starters": [
+                "Sánchez",
+                "De Ligt",
+                "Guéhi",
+                "Romero",
+                "Johnson",
+                "Elanga",
+                "Ndoye",
+                "Enzo",
+                "Osula",
+                "Gyökeres",
+                "Wood"
+            ],
+            "bench": [
+                "Raya",
+                "Acheampong",
+                "Mbeumo",
+                "J.Timber"
+            ]
+        },
+        {
+            "gameweek": 4,
+            "starters": [
+                "Sánchez",
+                "J.Timber",
+                "Guéhi",
+                "Romero",
+                "De Ligt",
+                "Grealish",
+                "Elanga",
+                "Enzo",
+                "Mbeumo",
+                "Gyökeres",
+                "Wood"
+            ],
+            "bench": [
+                "Raya",
+                "Kolo Muani",
+                "Ndoye",
+                "Acheampong"
+            ]
+        },
+        {
+            "gameweek": 5,
+            "starters": [
+                "Sánchez",
+                "J.Timber",
+                "Guéhi",
+                "Romero",
+                "Ndoye",
+                "Grealish",
+                "Bruno G.",
+                "Enzo",
+                "Mbeumo",
+                "Gyökeres",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Raya",
+                "Kolo Muani",
+                "Trippier",
+                "Acheampong"
+            ]
+        },
+        {
+            "gameweek": 6,
+            "starters": [
+                "Raya",
+                "J.Timber",
+                "Guéhi",
+                "Romero",
+                "Senesi",
+                "Ndoye",
+                "Grealish",
+                "Enzo",
+                "Mbeumo",
+                "Gyökeres",
+                "Bowen"
+            ],
+            "bench": [
+                "Roefs",
+                "Ekitiké",
+                "Trippier",
+                "Anthony"
+            ]
+        },
+        {
+            "gameweek": 7,
+            "starters": [
+                "Roefs",
+                "Guéhi",
+                "Romero",
+                "Alderete",
+                "J.Timber",
+                "Enzo",
+                "Reijnders",
+                "Anthony",
+                "Ødegaard",
+                "Semenyo",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Raya",
+                "Gvardiol",
+                "Bowen",
+                "Ekitiké"
+            ]
+        },
+        {
+            "gameweek": 8,
+            "starters": [
+                "Roefs",
+                "J.Timber",
+                "Alderete",
+                "Guéhi",
+                "Bruno G.",
+                "Cullen",
+                "Semenyo",
+                "Reijnders",
+                "Gyökeres",
+                "Bowen",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Raya",
+                "Gvardiol",
+                "Enzo",
+                "Romero"
+            ]
+        },
+        {
+            "gameweek": 9,
+            "starters": [
+                "Raya",
+                "Tarkowski",
+                "J.Timber",
+                "James",
+                "Enzo",
+                "Mbeumo",
+                "Cullen",
+                "Semenyo",
+                "Gyökeres",
+                "Ekitiké",
+                "Bowen"
+            ],
+            "bench": [
+                "Roefs",
+                "Guéhi",
+                "Reijnders",
+                "Romero"
+            ]
+        },
+        {
+            "gameweek": 10,
+            "starters": [
+                "Roefs",
+                "Tarkowski",
+                "J.Timber",
+                "Guéhi",
+                "Zubimendi",
+                "Enzo",
+                "Mbeumo",
+                "Semenyo",
+                "Gyökeres",
+                "Ekitiké",
+                "Woltemade"
+            ],
+            "bench": [
+                "Henderson",
+                "Szoboszlai",
+                "James",
+                "Romero"
+            ]
+        },
+        {
+            "gameweek": 11,
+            "starters": [
+                "Henderson",
+                "James",
+                "J.Timber",
+                "Tarkowski",
+                "Szoboszlai",
+                "Semenyo",
+                "Mbeumo",
+                "Gibbs-White",
+                "Enzo",
+                "Woltemade",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Roefs",
+                "Guéhi",
+                "Gyökeres",
+                "Romero"
+            ]
+        },
+        {
+            "gameweek": 12,
+            "starters": [
+                "Roefs",
+                "James",
+                "Richards",
+                "J.Timber",
+                "Guéhi",
+                "Matheus N.",
+                "Szoboszlai",
+                "Mbeumo",
+                "Zubimendi",
+                "Woltemade",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Henderson",
+                "Estêvão",
+                "Gyökeres",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 13,
+            "starters": [
+                "Roefs",
+                "Gvardiol",
+                "J.Timber",
+                "Guéhi",
+                "Richards",
+                "Cash",
+                "Rogers",
+                "Szoboszlai",
+                "Anderson",
+                "Mbeumo",
+                "Woltemade"
+            ],
+            "bench": [
+                "Henderson",
+                "Ekitiké",
+                "Gyökeres",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 14,
+            "starters": [
+                "Henderson",
+                "Virgil",
+                "J.Timber",
+                "Guéhi",
+                "Szoboszlai",
+                "Semenyo",
+                "Mbeumo",
+                "Foden",
+                "Anderson",
+                "Ekitiké",
+                "Woltemade"
+            ],
+            "bench": [
+                "Roefs",
+                "De Ligt",
+                "Gyökeres",
+                "Gvardiol"
+            ]
+        },
+        {
+            "gameweek": 15,
+            "starters": [
+                "Verbruggen",
+                "Burn",
+                "Gvardiol",
+                "J.Timber",
+                "Guéhi",
+                "Grealish",
+                "Semenyo",
+                "Foden",
+                "Anderson",
+                "Mbeumo",
+                "Woltemade"
+            ],
+            "bench": [
+                "Roefs",
+                "Virgil",
+                "Gyökeres",
+                "Ekitiké"
+            ]
+        },
+        {
+            "gameweek": 16,
+            "starters": [
+                "Sánchez",
+                "Cash",
+                "J.Timber",
+                "Guéhi",
+                "Szoboszlai",
+                "Wilson",
+                "Semenyo",
+                "Foden",
+                "Anderson",
+                "Ekitiké",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Roefs",
+                "Woltemade",
+                "Virgil",
+                "Gvardiol"
+            ]
+        },
+        {
+            "gameweek": 17,
+            "starters": [
+                "Roefs",
+                "O'Reilly",
+                "Virgil",
+                "Gvardiol",
+                "Guéhi",
+                "J.Timber",
+                "Wilson",
+                "Foden",
+                "Anderson",
+                "Ekitiké",
+                "Woltemade"
+            ],
+            "bench": [
+                "Sánchez",
+                "Szoboszlai",
+                "Bowen",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 18,
+            "starters": [
+                "Roefs",
+                "Virgil",
+                "Tarkowski",
+                "Guéhi",
+                "Semenyo",
+                "Wilson",
+                "Anderson",
+                "Foden",
+                "Bowen",
+                "Woltemade",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Pope",
+                "J.Timber",
+                "Grealish",
+                "Gvardiol"
+            ]
+        },
+        {
+            "gameweek": 19,
+            "starters": [
+                "Pope",
+                "Virgil",
+                "Thiaw",
+                "Gvardiol",
+                "Tarkowski",
+                "Minteh",
+                "Anderson",
+                "Foden",
+                "Semenyo",
+                "Woltemade",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Roefs",
+                "J.Timber",
+                "Bowen",
+                "Wilson"
+            ]
+        },
+        {
+            "gameweek": 20,
+            "starters": [
+                "Martinez",
+                "Pedro Porro",
+                "Tarkowski",
+                "J.Timber",
+                "Gvardiol",
+                "Thiaw",
+                "Garner",
+                "Foden",
+                "Anderson",
+                "Woltemade",
+                "Bowen"
+            ],
+            "bench": [
+                "Roefs",
+                "Ekitiké",
+                "Minteh",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 21,
+            "starters": [
+                "Martinez",
+                "O'Reilly",
+                "Tarkowski",
+                "J.Timber",
+                "Thiaw",
+                "Pedro Porro",
+                "Foden",
+                "Garner",
+                "Anderson",
+                "Woltemade",
+                "Bowen"
+            ],
+            "bench": [
+                "Roefs",
+                "Enzo",
+                "Semenyo",
+                "Ekitiké"
+            ]
+        },
+        {
+            "gameweek": 22,
+            "starters": [
+                "Roefs",
+                "Tarkowski",
+                "J.Timber",
+                "Virgil",
+                "Alderete",
+                "Pedro Porro",
+                "Foden",
+                "Garner",
+                "Anderson",
+                "Bowen",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Martinez",
+                "Woltemade",
+                "Semenyo",
+                "Enzo"
+            ]
+        },
+        {
+            "gameweek": 23,
+            "starters": [
+                "Roefs",
+                "Tarkowski",
+                "J.Timber",
+                "Pedro Porro",
+                "James",
+                "Foden",
+                "Semenyo",
+                "Garner",
+                "Anderson",
+                "Enzo",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Henderson",
+                "Bowen",
+                "Woltemade",
+                "Dorgu"
+            ]
+        },
+        {
+            "gameweek": 24,
+            "starters": [
+                "Roefs",
+                "Tarkowski",
+                "Van Hecke",
+                "James",
+                "Dalot",
+                "Cunha",
+                "Semenyo",
+                "Ayari",
+                "Anderson",
+                "Enzo",
+                "Evanilson"
+            ],
+            "bench": [
+                "Henderson",
+                "Ekitiké",
+                "J.Timber",
+                "Bowen"
+            ]
+        },
+        {
+            "gameweek": 25,
+            "starters": [
+                "Leno",
+                "J.Timber",
+                "Tarkowski",
+                "Thiaw",
+                "Semenyo",
+                "Enzo",
+                "Cunha",
+                "Anderson",
+                "Bowen",
+                "Gyökeres",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Roefs",
+                "Gordon",
+                "James",
+                "Van Hecke"
+            ]
+        },
+        {
+            "gameweek": 26,
+            "starters": [
+                "Henderson",
+                "J.Timber",
+                "Richards",
+                "Rúben",
+                "Sarr",
+                "Cunha",
+                "Semenyo",
+                "Anderson",
+                "Enzo",
+                "Ekitiké",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Roefs",
+                "Bowen",
+                "James",
+                "Tarkowski"
+            ]
+        },
+        {
+            "gameweek": 27,
+            "starters": [
+                "Roefs",
+                "J.Timber",
+                "Rúben",
+                "James",
+                "Cunha",
+                "Semenyo",
+                "Anderson",
+                "Enzo",
+                "Evanilson",
+                "Ekitiké",
+                "Bowen"
+            ],
+            "bench": [
+                "Martinez",
+                "Szoboszlai",
+                "Virgil",
+                "Tarkowski"
+            ]
+        },
+        {
+            "gameweek": 28,
+            "starters": [
+                "Martinez",
+                "J.Timber",
+                "Rúben",
+                "Virgil",
+                "Truffert",
+                "Szoboszlai",
+                "Iwobi",
+                "Semenyo",
+                "Anderson",
+                "Evanilson",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Roefs",
+                "Enzo",
+                "Bowen",
+                "Tarkowski"
+            ]
+        },
+        {
+            "gameweek": 29,
+            "starters": [
+                "Darlow",
+                "Rúben",
+                "Tarkowski",
+                "J.Timber",
+                "Keane",
+                "Virgil",
+                "Szoboszlai",
+                "Semenyo",
+                "Anderson",
+                "Evanilson",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Roefs",
+                "Marmoush",
+                "Bowen",
+                "Enzo"
+            ]
+        },
+        {
+            "gameweek": 30,
+            "starters": [
+                "Martinez",
+                "Calafiori",
+                "Mosquera",
+                "Richards",
+                "Collins",
+                "Sarr",
+                "Schade",
+                "Anderson",
+                "Bowen",
+                "Evanilson",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Henderson",
+                "Enzo",
+                "J.Timber",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 31,
+            "starters": [
+                "Martinez",
+                "Andersen",
+                "Bassey",
+                "Hall",
+                "Cunha",
+                "Anderson",
+                "Iwobi",
+                "Rogers",
+                "Bowen",
+                "Richarlison",
+                "Ekitiké"
+            ],
+            "bench": [
+                "Henderson",
+                "J.Timber",
+                "Calafiori",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 32,
+            "starters": [
+                "Henderson",
+                "Andersen",
+                "Bassey",
+                "Hall",
+                "Cunha",
+                "Semenyo",
+                "Iwobi",
+                "Rogers",
+                "Anderson",
+                "Bowen",
+                "Richarlison"
+            ],
+            "bench": [
+                "Martinez",
+                "J.Timber",
+                "Calafiori",
+                "Ekitiké"
+            ]
+        },
+        {
+            "gameweek": 33,
+            "starters": [
+                "Martinez",
+                "Kayode",
+                "Matheus N.",
+                "Muñoz",
+                "Mukiele",
+                "Semenyo",
+                "Schade",
+                "Rogers",
+                "Anderson",
+                "Bowen",
+                "Mateta"
+            ],
+            "bench": [
+                "Henderson",
+                "J.Timber",
+                "Richarlison",
+                "Cunha"
+            ]
+        },
+        {
+            "gameweek": 34,
+            "starters": [
+                "Roefs",
+                "Lacroix",
+                "Pedro Porro",
+                "Mukiele",
+                "Rogers",
+                "Ndiaye",
+                "Cunha",
+                "Gakpo",
+                "Bowen",
+                "Richarlison",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Martinez",
+                "J.Timber",
+                "Matheus N.",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 35,
+            "starters": [
+                "Roefs",
+                "Lacroix",
+                "Pedro Porro",
+                "Mukiele",
+                "Rogers",
+                "Ndiaye",
+                "Cunha",
+                "Gakpo",
+                "Bowen",
+                "Richarlison",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Martinez",
+                "J.Timber",
+                "Matheus N.",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 36,
+            "starters": [
+                "Roefs",
+                "Lacroix",
+                "Pedro Porro",
+                "Mukiele",
+                "Rogers",
+                "Ndiaye",
+                "Cunha",
+                "Gakpo",
+                "Bowen",
+                "Richarlison",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Martinez",
+                "J.Timber",
+                "Matheus N.",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 37,
+            "starters": [
+                "Roefs",
+                "Lacroix",
+                "Pedro Porro",
+                "Mukiele",
+                "Rogers",
+                "Ndiaye",
+                "Cunha",
+                "Gakpo",
+                "Bowen",
+                "Richarlison",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Martinez",
+                "J.Timber",
+                "Matheus N.",
+                "Semenyo"
+            ]
+        },
+        {
+            "gameweek": 38,
+            "starters": [
+                "Roefs",
+                "Pedro Porro",
+                "Mukiele",
+                "Lacroix",
+                "Semenyo",
+                "Gakpo",
+                "Rogers",
+                "Ndiaye",
+                "Bowen",
+                "Richarlison",
+                "Gyökeres"
+            ],
+            "bench": [
+                "Martinez",
+                "J.Timber",
+                "Matheus N.",
+                "Cunha"
+            ]
+        }
+    ]
+}

@@ -27,6 +27,7 @@ SCORE_MARGIN = 10
 CARDS: dict[str, tuple[tuple[str, str, int], ...]] = {
     "FWD": (
         ("Pts", "total_points", 0),
+        ("B", "bonus", 0),
         ("B23", "bonus_23", 0),
         ("MP", "minutes", 0),
         ("G", "goals_scored", 0),
@@ -39,6 +40,7 @@ CARDS: dict[str, tuple[tuple[str, str, int], ...]] = {
     ),
     "MID": (
         ("Pts", "total_points", 0),
+        ("B", "bonus", 0),
         ("B23", "bonus_23", 0),
         ("MP", "minutes", 0),
         ("G", "goals_scored", 0),
@@ -54,6 +56,7 @@ CARDS: dict[str, tuple[tuple[str, str, int], ...]] = {
     ),
     "DEF": (
         ("Pts", "total_points", 0),
+        ("B", "bonus", 0),
         ("B23", "bonus_23", 0),
         ("MP", "minutes", 0),
         ("GA", "goals_conceded", 0),
@@ -72,6 +75,7 @@ CARDS: dict[str, tuple[tuple[str, str, int], ...]] = {
     ),
     "GKP": (
         ("Pts", "total_points", 0),
+        ("B", "bonus", 0),
         ("B23", "bonus_23", 0),
         ("MP", "minutes", 0),
         ("GA", "goals_conceded", 0),
@@ -88,6 +92,7 @@ CARDS: dict[str, tuple[tuple[str, str, int], ...]] = {
 # per game columns summed into season totals
 SUM_COLUMNS = (
     "total_points",
+    "bonus",
     "minutes",
     "goals_scored",
     "assists",
